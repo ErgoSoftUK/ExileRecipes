@@ -1,0 +1,1773 @@
+[ {
+  "name" : "Breaching Charge (Big Momma)",
+  "pictureItem" : "Breaching Charge Big Momma",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Breaching Charge Big Momma",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Foolbox" ],
+  "components" : [ {
+    "name" : "Breaching Charge Metal",
+    "quantity" : 3
+  }, {
+    "name" : "Mobile Phone",
+    "quantity" : 1
+  }, {
+    "name" : "Duct Tape",
+    "quantity" : 1
+  }, {
+    "name" : "Zip Tie",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Breaching Charge (Metal)",
+  "pictureItem" : "Breaching Charge Metal",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Breaching Charge Metal",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Foolbox" ],
+  "components" : [ {
+    "name" : "Duct Tape",
+    "quantity" : 1
+  }, {
+    "name" : "Satchel Charge Remote Mag",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Breaching Charge (Wood)",
+  "pictureItem" : "Breaching Charge Wood",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Breaching Charge Wood",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Foolbox" ],
+  "components" : [ {
+    "name" : "Duct Tape",
+    "quantity" : 1
+  }, {
+    "name" : "Demo Charge Remote Mag",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook BBQ Sandwich",
+  "pictureItem" : "BBQSandwich Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "BBQSandwich Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "BBQSandwich",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Cat Food",
+  "pictureItem" : "Cat Food Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Cat Food Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Cat Food",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Christmas Tinner",
+  "pictureItem" : "Christmas Tinner Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Christmas Tinner Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Christmas Tinner",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Brew Coffee",
+  "pictureItem" : "Plastic Bottle Coffee",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Plastic Bottle Coffee",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Plastic Bottle Fresh Water",
+    "quantity" : 1
+  }, {
+    "name" : "Instant Coffee",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Dog Food",
+  "pictureItem" : "Dog Food Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Dog Food Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Dog Food",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Glorious Knakworst",
+  "pictureItem" : "Glorious Knakworst Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Glorious Knakworst Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Glorious Knakworst",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Macas Cheese",
+  "pictureItem" : "Macas Cheese Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Macas Cheese Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Macas Cheese",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Dirty Water",
+  "pictureItem" : "Plastic Bottle Fresh Water",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Plastic Bottle Fresh Water",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Plastic Bottle Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Salt Water",
+  "pictureItem" : "Plastic Bottle Fresh Water",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Plastic Bottle Fresh Water",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Plastic Bottle Salt Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Sausage Gravy",
+  "pictureItem" : "Sausage Gravy Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Sausage Gravy Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Sausage Gravy",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Surströmming",
+  "pictureItem" : "Surstromming Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Surstromming Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Surstromming",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Bandage",
+  "pictureItem" : "Bandage",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Bandage",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Toilet Paper",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Concrete Doorway",
+  "pictureItem" : "Concrete Doorway Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Concrete Doorway Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 3
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 3
+  }, {
+    "name" : "Sand",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 3
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 3
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : true
+}, {
+  "name" : "Craft Concrete Drawbridge",
+  "pictureItem" : "Concrete Draw Bridge Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Concrete Draw Bridge Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 4
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 4
+  }, {
+    "name" : "Sand",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 4
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 3
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 4
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : true
+}, {
+  "name" : "Craft Concrete Floor",
+  "pictureItem" : "Concrete Floor Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Concrete Floor Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : true
+}, {
+  "name" : "Craft Concrete Floor Port",
+  "pictureItem" : "Concrete Floor Port Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Concrete Floor Port Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 3
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 3
+  }, {
+    "name" : "Sand",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 3
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 3
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : true
+}, {
+  "name" : "Craft Concrete Floor Port (Small)",
+  "pictureItem" : "Concrete Floor Port Small Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Concrete Floor Port Small Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 3
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 3
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 3
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : true
+}, {
+  "name" : "Craft Concrete Gate",
+  "pictureItem" : "Concrete Gate Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Concrete Gate Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 4
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 4
+  }, {
+    "name" : "Sand",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 4
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 4
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : true
+}, {
+  "name" : "Craft Concrete Ladder Hatch",
+  "pictureItem" : "Concrete Ladder Hatch Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Concrete Ladder Hatch Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 3
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 3
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 3
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 3
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : true
+}, {
+  "name" : "Craft Concrete Stairs",
+  "pictureItem" : "Concrete Stairs Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Concrete Stairs Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Sand",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : true
+}, {
+  "name" : "Craft Concrete Support",
+  "pictureItem" : "Concrete Support Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Concrete Support Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Sand",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : true
+}, {
+  "name" : "Craft Concrete Wall",
+  "pictureItem" : "Concrete Wall Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Concrete Wall Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : true
+}, {
+  "name" : "Craft Fire Place",
+  "pictureItem" : "Camp Fire Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Camp Fire Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Log",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Flood Light",
+  "pictureItem" : "Flood Light Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Flood Light Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 1
+  }, {
+    "name" : "Light Bulb",
+    "quantity" : 1
+  }, {
+    "name" : "Extension Cord",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Fortification Upgrade",
+  "pictureItem" : "<< CHANGE IT",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Fortification Upgrade",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft H-barrier (5 Blocks)",
+  "pictureItem" : "HBarrier5Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "HBarrier5Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Sand Bags Kit Long",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Metal Board",
+  "pictureItem" : "Metal Board",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Metal Board",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Metal Hedgehog",
+  "pictureItem" : "Metal Hedgehog Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Metal Hedgehog Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Metal Ladder",
+  "pictureItem" : "Metal Ladder Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Metal Ladder Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 6
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Metal Ladder (Double Tall)",
+  "pictureItem" : "Metal Ladder Double Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Metal Ladder Double Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Metal Ladder Kit",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Metal Pole",
+  "pictureItem" : "Metal Pole",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Old Chest",
+  "pictureItem" : "Old Chest Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Old Chest Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 3
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 3
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Portable Generator",
+  "pictureItem" : "Portable Generator Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Portable Generator Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 4
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Extension Cord",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Concrete Repair Kit",
+  "pictureItem" : "Cement",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Repair Kit Concrete",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 4
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : true
+}, {
+  "name" : "Craft Metal Repair Kit",
+  "pictureItem" : "Repair Kit Metal",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Repair Kit Metal",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Foolbox", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Wood Repair Kit",
+  "pictureItem" : "Repair Kit Wood",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Repair Kit Wood",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Foolbox" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Sandbags Kit (Corner)",
+  "pictureItem" : "Sand Bags Kit Corner",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Sand Bags Kit Corner",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 3
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Sand Bags Kit (Long)",
+  "pictureItem" : "Sand Bags Kit Long",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Sand Bags Kit Long",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 6
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Storage Crate",
+  "pictureItem" : "Storage Crate Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Storage Crate Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 5
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Water Barrel",
+  "pictureItem" : "Water Barrel Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Water Barrel Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Plastic Bottle Empty",
+    "quantity" : 20
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Wire Fence Kit",
+  "pictureItem" : "Wire Fence Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wire Fence Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 6
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Wood Doorway",
+  "pictureItem" : "Wood Doorway Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Doorway Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 6
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Wood Draw Bridge",
+  "pictureItem" : "Wood Draw Bridge Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Draw Bridge Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 8
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Wood Floor",
+  "pictureItem" : "Wood Floor Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Floor Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Wood Floor Port",
+  "pictureItem" : "Wood Floor Port Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Floor Port Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 6
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Wood Floor Port (Small)",
+  "pictureItem" : "Wood Floor Port Small Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Floor Port Small Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 6
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Wood Gate",
+  "pictureItem" : "Wood Gate Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Gate Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 8
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Wood Ladder",
+  "pictureItem" : "Wood Ladder Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Ladder Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 6
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Wood Ladder Hatch",
+  "pictureItem" : "Wood Ladder Hatch Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Ladder Hatch Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 6
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 3
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Wood Plank",
+  "pictureItem" : "Wood Plank",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Handsaw" ],
+  "components" : [ {
+    "name" : "Wood Log",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Wood Stairs",
+  "pictureItem" : "Wood Stairs Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Stairs Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 6
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Wood Support",
+  "pictureItem" : "Wood Support Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Support Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 6
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Wood Wall",
+  "pictureItem" : "Wood Wall Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Wall Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft 1/2 Wood Wall",
+  "pictureItem" : "Wood Wall Half Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Wall Half Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Wood Window",
+  "pictureItem" : "Wood Window Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Window Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 6
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Craft Work Bench",
+  "pictureItem" : "Work Bench Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Work Bench Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Log",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Alsatian Steak",
+  "pictureItem" : "Alsatian Steak Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Alsatian Steak Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Alsatian Steak Raw",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Cat Shark Filet",
+  "pictureItem" : "Cat Shark Filet Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Cat Shark Filet Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Cat Shark Filet Raw",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Chicken Filet",
+  "pictureItem" : "Chicken Filet Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Chicken Filet Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Chicken Filet Raw",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Fin Steak",
+  "pictureItem" : "Fin Steak Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Fin Steak Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Fin Steak Raw",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Goat Steak",
+  "pictureItem" : "Goat Steak Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Goat Steak Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Goat Steak Raw",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Mackerel Filet",
+  "pictureItem" : "Mackerel Filet Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Mackerel Filet Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Mackerel Filet Raw",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Mullet Filet",
+  "pictureItem" : "Mullet Filet Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Mullet Filet Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Mullet Filet Raw",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Ornate Filet",
+  "pictureItem" : "Ornate Filet Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Ornate Filet Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Ornate Filet Raw",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Rabbit Steak",
+  "pictureItem" : "Rabbit Steak Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Rabbit Steak Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Rabbit Steak Raw",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Rooster Filet",
+  "pictureItem" : "Rooster Filet Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Rooster Filet Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Rooster Filet Raw",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Salema Filet",
+  "pictureItem" : "Salema Filet Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Salema Filet Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Salema Filet Raw",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Sheep Steak",
+  "pictureItem" : "Sheep Steak Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Sheep Steak Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Sheep Steak Raw",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Snake Filet",
+  "pictureItem" : "Snake Filet Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Snake Filet Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Snake Filet Raw",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Tuna Filet",
+  "pictureItem" : "Tuna Filet Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Tuna Filet Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Tuna Filet Raw",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Cook Turtle Filet",
+  "pictureItem" : "Turtle Filet Cooked",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Turtle Filet Cooked",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Turtle Filet Raw",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Empty Fuel Canister",
+  "pictureItem" : "Fuel Canister Empty",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Empty Dirty Water",
+  "pictureItem" : "Plastic Bottle Empty",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Plastic Bottle Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Plastic Bottle Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Empty Salt Water",
+  "pictureItem" : "Plastic Bottle Empty",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Plastic Bottle Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Plastic Bottle Salt Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Fill Dirty Water",
+  "pictureItem" : "Plastic Bottle Dirty Water",
+  "interactionGrp" : "Water Source",
+  "returnedItems" : [ {
+    "name" : "Plastic Bottle Dirty Water",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Plastic Bottle Empty",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Fill Fresh Water",
+  "pictureItem" : "Plastic Bottle Fresh Water",
+  "interactionGrp" : "Clean Water Source",
+  "returnedItems" : [ {
+    "name" : "Plastic Bottle Fresh Water",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Plastic Bottle Empty",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Fill Salt Water",
+  "pictureItem" : "Plastic Bottle Salt Water",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Plastic Bottle Salt Water",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Plastic Bottle Empty",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : true,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Fill Dirty Water",
+  "pictureItem" : "Water Canister Dirty Water",
+  "interactionGrp" : "Water Source",
+  "returnedItems" : [ {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Fill Fuel Canister",
+  "pictureItem" : "Fuel Canister Full",
+  "interactionGrp" : "Fuel Source",
+  "returnedItems" : [ {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Upgrade to Concrete Door",
+  "pictureItem" : "Concrete Door Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Concrete Door Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Concrete Doorway Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Upgrade to Concrete Floor Port",
+  "pictureItem" : "Concrete Floor Port Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Concrete Floor Port Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Concrete Floor Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Upgrade to Concrete Gate",
+  "pictureItem" : "Concrete Gate Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Concrete Gate Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Concrete Wall Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Upgrade to Concrete Window",
+  "pictureItem" : "Concrete Window Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Concrete Window Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Concrete Wall Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Upgrade to Wood Door",
+  "pictureItem" : "Wood Door Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Door Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Doorway Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Upgrade to Wood Draw Bridge",
+  "pictureItem" : "Wood Draw Bridge Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Draw Bridge Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Gate Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 2
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Upgrade to Wood Floor Port",
+  "pictureItem" : "Wood Floor Port Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Floor Port Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Floor Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Upgrade to Wood Gate",
+  "pictureItem" : "Wood Gate Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Gate Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Wall Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Upgrade to Wood Wall",
+  "pictureItem" : "Wood Wall Half Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Wall Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Wall Half Kit",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+}, {
+  "name" : "Upgrade to Wood Window",
+  "pictureItem" : "Wood Window Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Wood Window Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Wood Wall Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false
+} ]
