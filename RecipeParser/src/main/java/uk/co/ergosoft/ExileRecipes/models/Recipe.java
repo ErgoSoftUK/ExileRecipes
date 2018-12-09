@@ -13,6 +13,7 @@ public class Recipe {
     private boolean requiresOcean;
     private boolean requiresFire;
     private boolean requiresConcreteMixer;
+    private String category;
 
     public String getName() {
         return name;
@@ -92,6 +93,15 @@ public class Recipe {
 
     public Recipe setRequiresConcreteMixer(boolean requiresConcreteMixer) {
         this.requiresConcreteMixer = requiresConcreteMixer;
+        return this;
+    }
+
+    public String getCategory() {
+        return category;
+    }
+
+    public Recipe setCategory(String category) {
+        this.category = category;
         return this;
     }
 }

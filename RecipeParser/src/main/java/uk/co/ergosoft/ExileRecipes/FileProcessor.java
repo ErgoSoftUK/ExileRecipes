@@ -14,28 +14,18 @@ public class FileProcessor {
     private List<Recipe> recipes = new ArrayList<>();
     private boolean inComment = false;
 
-    public void execute(String infile, String outfile) {
-        try (Scanner s = new Scanner(new File(infile))) {
-            s.useDelimiter("\n|\t|\\{|\\}|=|,");
-            findCraftingRecipesClass(s);
-            processRecipes(s);
-            System.out.println("Recipes found: " + recipes.size());
-            writeJson(outfile);
-        } catch (Exception e) {
-            System.err.println("Error scanning file: " + e.getMessage());
-            e.printStackTrace();
+    public void execute(String[] args) {
+        for(int i=0; i < args.length - 1; i++) {
+            try (Scanner s = new Scanner(new File(args[i]))) {
+                s.useDelimiter("\n|\t|\\{|\\}|=|,");
+                processRecipes(s);
+                System.out.println("Recipes found: " + recipes.size());
+            } catch (Exception e) {
+                System.err.println("Error scanning file: " + e.getMessage());
+                e.printStackTrace();
+            }
         }
-    }
-
-    private void findCraftingRecipesClass(Scanner s) throws IOException {
-        System.out.println("Searching for recipes class...");
-        while (s.hasNext()) {
-            String token = getNextToken(s);
-
-            if ("class CfgCraftingRecipes".equals(token))
-                return;
-        }
-        throw new RuntimeException("Could not find recipes class");
+        writeJson(args[args.length - 1]);
     }
 
     private void processRecipes(Scanner s) throws IOException {
@@ -51,13 +41,10 @@ public class FileProcessor {
     private Recipe findNextRecipe(Scanner s) throws IOException {
         while (s.hasNext()) {
             String token = getNextToken(s);
-            if (token.startsWith("class"))
+            if (token.contains(": Exile_AbstractCraftingRecipe"))
                 return new Recipe().setName(token);
-
-            if (";".equals(token))  // End of recipes class
-                return null;
         }
-        throw new RuntimeException("Error finding recipe class, end of file reached");
+        return null;
     }
 
     private void processRecipe(Recipe recipe, Scanner s) throws IOException {
@@ -84,6 +71,8 @@ public class FileProcessor {
                 recipe.setRequiresFire("1".equals(clean(getNextToken(s))));
             else if ("requiresConcreteMixer".equals(token))
                 recipe.setRequiresConcreteMixer("true".equals(clean(getNextToken(s))));
+            else if ("category".equals(token))
+                recipe.setCategory(clean(getNextToken(s)));
             else if (";".equals(token))
                 return; // End of recipe
             else
@@ -150,6 +139,10 @@ public class FileProcessor {
                 }
             }
 
+            i = token.indexOf("//");
+            if (i>=0)
+                token = token.substring(0, i);
+
             if (!token.isEmpty())
                 return token;
         }
@@ -158,9 +151,6 @@ public class FileProcessor {
     }
 
     private String clean(String s) {
-        int i = s.indexOf("//");
-        if (i>=0)
-            s = s.substring(i+2);
         return s
             .replace("Exile_Item_", "")
             .replace("\"", "")

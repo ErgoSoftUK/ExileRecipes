@@ -10,4 +10,5 @@ export class Recipe {
   requiresOcean: boolean;
   requiresFire: boolean;
   requiresConcreteMixer: boolean;
+  category: string;
 }

@@ -22,7 +22,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Breaching Charge (Metal)",
   "pictureItem" : "Breaching Charge Metal",
@@ -41,7 +42,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Breaching Charge (Wood)",
   "pictureItem" : "Breaching Charge Wood",
@@ -60,7 +62,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook BBQ Sandwich",
   "pictureItem" : "BBQSandwich Cooked",
@@ -76,7 +79,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Cat Food",
   "pictureItem" : "Cat Food Cooked",
@@ -92,7 +96,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Christmas Tinner",
   "pictureItem" : "Christmas Tinner Cooked",
@@ -108,7 +113,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Brew Coffee",
   "pictureItem" : "Plastic Bottle Coffee",
@@ -127,7 +133,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Dog Food",
   "pictureItem" : "Dog Food Cooked",
@@ -143,7 +150,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Glorious Knakworst",
   "pictureItem" : "Glorious Knakworst Cooked",
@@ -159,7 +167,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Macas Cheese",
   "pictureItem" : "Macas Cheese Cooked",
@@ -175,7 +184,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Dirty Water",
   "pictureItem" : "Plastic Bottle Fresh Water",
@@ -191,7 +201,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Salt Water",
   "pictureItem" : "Plastic Bottle Fresh Water",
@@ -207,7 +218,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Sausage Gravy",
   "pictureItem" : "Sausage Gravy Cooked",
@@ -223,7 +235,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Surströmming",
   "pictureItem" : "Surstromming Cooked",
@@ -239,7 +252,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Bandage",
   "pictureItem" : "Bandage",
@@ -255,7 +269,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Concrete Doorway",
   "pictureItem" : "Concrete Doorway Kit",
@@ -289,7 +304,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : true
+  "requiresConcreteMixer" : true,
+  "category" : null
 }, {
   "name" : "Craft Concrete Drawbridge",
   "pictureItem" : "Concrete Draw Bridge Kit",
@@ -326,7 +342,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : true
+  "requiresConcreteMixer" : true,
+  "category" : null
 }, {
   "name" : "Craft Concrete Floor",
   "pictureItem" : "Concrete Floor Kit",
@@ -360,7 +377,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : true
+  "requiresConcreteMixer" : true,
+  "category" : null
 }, {
   "name" : "Craft Concrete Floor Port",
   "pictureItem" : "Concrete Floor Port Kit",
@@ -394,7 +412,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : true
+  "requiresConcreteMixer" : true,
+  "category" : null
 }, {
   "name" : "Craft Concrete Floor Port (Small)",
   "pictureItem" : "Concrete Floor Port Small Kit",
@@ -428,7 +447,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : true
+  "requiresConcreteMixer" : true,
+  "category" : null
 }, {
   "name" : "Craft Concrete Gate",
   "pictureItem" : "Concrete Gate Kit",
@@ -462,7 +482,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : true
+  "requiresConcreteMixer" : true,
+  "category" : null
 }, {
   "name" : "Craft Concrete Ladder Hatch",
   "pictureItem" : "Concrete Ladder Hatch Kit",
@@ -499,7 +520,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : true
+  "requiresConcreteMixer" : true,
+  "category" : null
 }, {
   "name" : "Craft Concrete Stairs",
   "pictureItem" : "Concrete Stairs Kit",
@@ -533,7 +555,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : true
+  "requiresConcreteMixer" : true,
+  "category" : null
 }, {
   "name" : "Craft Concrete Support",
   "pictureItem" : "Concrete Support Kit",
@@ -567,7 +590,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : true
+  "requiresConcreteMixer" : true,
+  "category" : null
 }, {
   "name" : "Craft Concrete Wall",
   "pictureItem" : "Concrete Wall Kit",
@@ -601,7 +625,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : true
+  "requiresConcreteMixer" : true,
+  "category" : null
 }, {
   "name" : "Craft Fire Place",
   "pictureItem" : "Camp Fire Kit",
@@ -617,7 +642,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Flood Light",
   "pictureItem" : "Flood Light Kit",
@@ -639,10 +665,11 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Fortification Upgrade",
-  "pictureItem" : "<< CHANGE IT",
+  "pictureItem" : "Metal Board ",
   "interactionGrp" : "Work Bench",
   "returnedItems" : [ {
     "name" : "Fortification Upgrade",
@@ -658,7 +685,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft H-barrier (5 Blocks)",
   "pictureItem" : "HBarrier5Kit",
@@ -677,7 +705,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Metal Board",
   "pictureItem" : "Metal Board",
@@ -693,7 +722,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Metal Hedgehog",
   "pictureItem" : "Metal Hedgehog Kit",
@@ -709,7 +739,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Metal Ladder",
   "pictureItem" : "Metal Ladder Kit",
@@ -725,7 +756,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Metal Ladder (Double Tall)",
   "pictureItem" : "Metal Ladder Double Kit",
@@ -741,7 +773,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Metal Pole",
   "pictureItem" : "Metal Pole",
@@ -757,7 +790,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Old Chest",
   "pictureItem" : "Old Chest Kit",
@@ -776,7 +810,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Portable Generator",
   "pictureItem" : "Portable Generator Kit",
@@ -798,7 +833,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Concrete Repair Kit",
   "pictureItem" : "Cement",
@@ -829,7 +865,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : true
+  "requiresConcreteMixer" : true,
+  "category" : null
 }, {
   "name" : "Craft Metal Repair Kit",
   "pictureItem" : "Repair Kit Metal",
@@ -845,7 +882,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Wood Repair Kit",
   "pictureItem" : "Repair Kit Wood",
@@ -861,7 +899,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Sandbags Kit (Corner)",
   "pictureItem" : "Sand Bags Kit Corner",
@@ -877,7 +916,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Sand Bags Kit (Long)",
   "pictureItem" : "Sand Bags Kit Long",
@@ -893,7 +933,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Storage Crate",
   "pictureItem" : "Storage Crate Kit",
@@ -909,7 +950,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Water Barrel",
   "pictureItem" : "Water Barrel Kit",
@@ -925,7 +967,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Wire Fence Kit",
   "pictureItem" : "Wire Fence Kit",
@@ -947,7 +990,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Wood Doorway",
   "pictureItem" : "Wood Doorway Kit",
@@ -963,7 +1007,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Wood Draw Bridge",
   "pictureItem" : "Wood Draw Bridge Kit",
@@ -985,7 +1030,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Wood Floor",
   "pictureItem" : "Wood Floor Kit",
@@ -1001,7 +1047,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Wood Floor Port",
   "pictureItem" : "Wood Floor Port Kit",
@@ -1017,7 +1064,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Wood Floor Port (Small)",
   "pictureItem" : "Wood Floor Port Small Kit",
@@ -1033,7 +1081,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Wood Gate",
   "pictureItem" : "Wood Gate Kit",
@@ -1049,7 +1098,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Wood Ladder",
   "pictureItem" : "Wood Ladder Kit",
@@ -1065,7 +1115,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Wood Ladder Hatch",
   "pictureItem" : "Wood Ladder Hatch Kit",
@@ -1084,7 +1135,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Wood Plank",
   "pictureItem" : "Wood Plank",
@@ -1100,7 +1152,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Wood Stairs",
   "pictureItem" : "Wood Stairs Kit",
@@ -1116,7 +1169,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Wood Support",
   "pictureItem" : "Wood Support Kit",
@@ -1132,7 +1186,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Wood Wall",
   "pictureItem" : "Wood Wall Kit",
@@ -1148,7 +1203,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft 1/2 Wood Wall",
   "pictureItem" : "Wood Wall Half Kit",
@@ -1164,7 +1220,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Wood Window",
   "pictureItem" : "Wood Window Kit",
@@ -1180,7 +1237,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Craft Work Bench",
   "pictureItem" : "Work Bench Kit",
@@ -1196,7 +1254,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Alsatian Steak",
   "pictureItem" : "Alsatian Steak Cooked",
@@ -1212,7 +1271,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Cat Shark Filet",
   "pictureItem" : "Cat Shark Filet Cooked",
@@ -1228,7 +1288,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Chicken Filet",
   "pictureItem" : "Chicken Filet Cooked",
@@ -1244,7 +1305,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Fin Steak",
   "pictureItem" : "Fin Steak Cooked",
@@ -1260,7 +1322,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Goat Steak",
   "pictureItem" : "Goat Steak Cooked",
@@ -1276,7 +1339,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Mackerel Filet",
   "pictureItem" : "Mackerel Filet Cooked",
@@ -1292,7 +1356,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Mullet Filet",
   "pictureItem" : "Mullet Filet Cooked",
@@ -1308,7 +1373,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Ornate Filet",
   "pictureItem" : "Ornate Filet Cooked",
@@ -1324,7 +1390,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Rabbit Steak",
   "pictureItem" : "Rabbit Steak Cooked",
@@ -1340,7 +1407,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Rooster Filet",
   "pictureItem" : "Rooster Filet Cooked",
@@ -1356,7 +1424,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Salema Filet",
   "pictureItem" : "Salema Filet Cooked",
@@ -1372,7 +1441,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Sheep Steak",
   "pictureItem" : "Sheep Steak Cooked",
@@ -1388,7 +1458,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Snake Filet",
   "pictureItem" : "Snake Filet Cooked",
@@ -1404,7 +1475,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Tuna Filet",
   "pictureItem" : "Tuna Filet Cooked",
@@ -1420,7 +1492,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Cook Turtle Filet",
   "pictureItem" : "Turtle Filet Cooked",
@@ -1436,7 +1509,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : true,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Empty Fuel Canister",
   "pictureItem" : "Fuel Canister Empty",
@@ -1452,7 +1526,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Empty Dirty Water",
   "pictureItem" : "Plastic Bottle Empty",
@@ -1468,7 +1543,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Empty Salt Water",
   "pictureItem" : "Plastic Bottle Empty",
@@ -1484,7 +1560,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Fill Dirty Water",
   "pictureItem" : "Plastic Bottle Dirty Water",
@@ -1500,7 +1577,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Fill Fresh Water",
   "pictureItem" : "Plastic Bottle Fresh Water",
@@ -1516,7 +1594,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Fill Salt Water",
   "pictureItem" : "Plastic Bottle Salt Water",
@@ -1532,7 +1611,8 @@
   } ],
   "requiresOcean" : true,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Fill Dirty Water",
   "pictureItem" : "Water Canister Dirty Water",
@@ -1548,7 +1628,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Fill Fuel Canister",
   "pictureItem" : "Fuel Canister Full",
@@ -1564,7 +1645,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Upgrade to Concrete Door",
   "pictureItem" : "Concrete Door Kit",
@@ -1586,7 +1668,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Upgrade to Concrete Floor Port",
   "pictureItem" : "Concrete Floor Port Kit",
@@ -1608,7 +1691,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Upgrade to Concrete Gate",
   "pictureItem" : "Concrete Gate Kit",
@@ -1630,7 +1714,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Upgrade to Concrete Window",
   "pictureItem" : "Concrete Window Kit",
@@ -1652,7 +1737,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Upgrade to Wood Door",
   "pictureItem" : "Wood Door Kit",
@@ -1671,7 +1757,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Upgrade to Wood Draw Bridge",
   "pictureItem" : "Wood Draw Bridge Kit",
@@ -1696,7 +1783,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Upgrade to Wood Floor Port",
   "pictureItem" : "Wood Floor Port Kit",
@@ -1715,7 +1803,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Upgrade to Wood Gate",
   "pictureItem" : "Wood Gate Kit",
@@ -1734,7 +1823,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Upgrade to Wood Wall",
   "pictureItem" : "Wood Wall Half Kit",
@@ -1750,7 +1840,8 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
 }, {
   "name" : "Upgrade to Wood Window",
   "pictureItem" : "Wood Window Kit",
@@ -1769,5 +1860,5585 @@
   } ],
   "requiresOcean" : false,
   "requiresFire" : false,
-  "requiresConcreteMixer" : false
+  "requiresConcreteMixer" : false,
+  "category" : null
+}, {
+  "name" : "Barrierbunker Green Big APEX",
+  "pictureItem" : "Land HBarrier 01 big tower green F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land HBarrier 01 big tower green F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel", "Pliers" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 3
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 5
+  }, {
+    "name" : "Woodlog",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Bagbunker Green Big APEX",
+  "pictureItem" : "Land Bagbunker 01 large green F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Bagbunker 01 large green F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel", "Pliers" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 3
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 5
+  }, {
+    "name" : "Rope",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Sandbagshort Green APEX",
+  "pictureItem" : "Land Bagfence 01 short green F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Bagfence 01 short green F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Sandbaglong Green APEX",
+  "pictureItem" : "Land Bagfence 01 long green F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Bagfence 01 long green F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "IR Tent 02 APEX",
+  "pictureItem" : "Land IRMasking Cover 02 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land IRMasking Cover 02 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 3
+  }, {
+    "name" : "Rope",
+    "quantity" : 3
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Tents"
+}, {
+  "name" : "IR Tent 01 APEX",
+  "pictureItem" : "Land IRMasking Cover 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land IRMasking Cover 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 3
+  }, {
+    "name" : "Rope",
+    "quantity" : 3
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Tents"
+}, {
+  "name" : "Airport Hangar APEX",
+  "pictureItem" : "Land Airport 01 hangar F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Airport 01 hangar F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder", "Hammer" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 4
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Barrier3 green APEX",
+  "pictureItem" : "Land HBarrier 01 line 3 green F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land HBarrier 01 line 3 green F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Barrier5 green APEX",
+  "pictureItem" : "Land HBarrier 01 line 5 green F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land HBarrier 01 line 5 green F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Sandbagtower green APEX",
+  "pictureItem" : "Land HBarrier 01 big tower green F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land HBarrier 01 big tower green F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers", "Grinder" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 4
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Doorframe",
+  "pictureItem" : "EBM door frame Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM door frame Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 8
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Woodencrate",
+  "pictureItem" : "EBM woodencrate Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM woodencrate Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 8
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Oven",
+  "pictureItem" : "EBM oven Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM oven Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Portable Generator Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Duct Tape",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Crowsfeet",
+  "pictureItem" : "EBM crowsfeet Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM crowsfeet Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Duct Tape",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Cover Small",
+  "pictureItem" : "EBM mechanical cover small Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM mechanical cover small Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Duct Tape",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "EBM ATM",
+  "pictureItem" : "EBM ATM Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM ATM Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Portable Generator Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 4
+  }, {
+    "name" : "Rope",
+    "quantity" : 4
+  }, {
+    "name" : "Duct Tape",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Pollard",
+  "pictureItem" : "EBM pollard Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM pollard Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver", "Hammer" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 4
+  }, {
+    "name" : "Extension Cord",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Medikit",
+  "pictureItem" : "EBM Medikit Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM Medikit Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Hammer" ],
+  "components" : [ {
+    "name" : "Plastic Bottle Empty",
+    "quantity" : 10
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 4
+  }, {
+    "name" : "Insta Doc",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Brickwall Window",
+  "pictureItem" : "EBM Brickwall window Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM Brickwall window Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "EBM Item Bucket Of Mortar",
+    "quantity" : 2
+  }, {
+    "name" : "EBM Item Bricks",
+    "quantity" : 2
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 5
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Brickwall Cn C Stairs",
+  "pictureItem" : "EBM Brickwall stairs Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Water Canister Empty",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 2
+  }, {
+    "name" : "EBM Brickwall stairs Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Brickwall Cn C Floor Door",
+  "pictureItem" : "EBM Brickwall floorport door Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM Brickwall floorport door Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "EBM Item Bucket Of Mortar",
+    "quantity" : 2
+  }, {
+    "name" : "EBM Item Bricks",
+    "quantity" : 2
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 5
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Brickwall Cn C Floorport",
+  "pictureItem" : "EBM Brickwall floorport Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM Brickwall floorport Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "EBM Item Bucket Of Mortar",
+    "quantity" : 2
+  }, {
+    "name" : "EBM Item Bricks",
+    "quantity" : 2
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 5
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Brickwall Cn C Floor",
+  "pictureItem" : "EBM Brickwall floor Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM Brickwall floor Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "EBM Item Bucket Of Mortar",
+    "quantity" : 2
+  }, {
+    "name" : "EBM Item Bricks",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Brickwall Door",
+  "pictureItem" : "EBM Brickwall door Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM Brickwall door Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "EBM Item Bucket Of Mortar",
+    "quantity" : 2
+  }, {
+    "name" : "EBM Item Bricks",
+    "quantity" : 2
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 5
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Brickwall Hole",
+  "pictureItem" : "EBM Brickwall hole Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM Brickwall hole Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "EBM Item Bucket Of Mortar",
+    "quantity" : 2
+  }, {
+    "name" : "EBM Item Bricks",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Helipad",
+  "pictureItem" : "EBM Helipad Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Water Canister Empty",
+    "quantity" : 3
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 3
+  }, {
+    "name" : "EBM Helipad Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 3
+  }, {
+    "name" : "Sand",
+    "quantity" : 3
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 3
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 3
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Airhook",
+  "pictureItem" : "EBM Airhook Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM Airhook Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 10
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Parksign",
+  "pictureItem" : "EBM Parksign Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM Parksign Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Brickwall",
+  "pictureItem" : "EBM Brickwall Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "EBM Brickwall Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "EBM Item Bucket Of Mortar",
+    "quantity" : 2
+  }, {
+    "name" : "EBM Item Bricks",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "EBM Buildings"
+}, {
+  "name" : "Burning Barrel",
+  "pictureItem" : "Metal Barrel burning F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Metal Barrel burning F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Misc"
+}, {
+  "name" : "Obstacle Ramp",
+  "pictureItem" : "Land Obstacle Ramp F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Obstacle Ramp F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Generator",
+  "pictureItem" : "Land Portable Generator 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Portable Generator 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 5
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "Projector",
+  "pictureItem" : "Land Projector 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Projector 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Light Bulb",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "Satellite Antenna",
+  "pictureItem" : "Land Satellite Antenna 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Satellite Antenna 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "Simple Target",
+  "pictureItem" : "Target F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Target F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Targets"
+}, {
+  "name" : "Human Target",
+  "pictureItem" : "Target Bootcamp Human F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Target Bootcamp Human F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Targets"
+}, {
+  "name" : "Infantry Accuracy Target",
+  "pictureItem" : "Target P Inf Acc2 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Target P Inf Acc2 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Targets"
+}, {
+  "name" : "Tripodscreen Vertical 1",
+  "pictureItem" : "Land Tripod Screen 01 dual v1 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Tripod Screen 01 dual v1 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Light Bulb",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "Tripodscreen Vertical 2",
+  "pictureItem" : "Land Tripod Screen 01 dual v2 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Tripod Screen 01 dual v2 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Light Bulb",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "Tripodscreen Large",
+  "pictureItem" : "Land Tripod Screen 01 large F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Tripod Screen 01 large F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "Waterpump Desert",
+  "pictureItem" : "Water Pump 01 sand F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Water Pump 01 sand F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Supply"
+}, {
+  "name" : "Waterpump Forest",
+  "pictureItem" : "Water Pump 01 forest F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Water Pump 01 forest F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Supply"
+}, {
+  "name" : "Zbox Camera",
+  "pictureItem" : "Land Gaming Set 01 camera F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Gaming Set 01 camera F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "Zbox Powersupply",
+  "pictureItem" : "Land Gaming Set 01 power Supply F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Gaming Set 01 power Supply F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "Portable Heli Light Yellow",
+  "pictureItem" : "Portable Helipad Light 01 yellow F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Portable Helipad Light 01 yellow F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Light Bulb",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Lights"
+}, {
+  "name" : "Portable Heli Light White",
+  "pictureItem" : "Portable Helipad Light 01 white F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Portable Helipad Light 01 white F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Light Bulb",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Lights"
+}, {
+  "name" : "Portable Heli Light Red",
+  "pictureItem" : "Portable Helipad Light 01 red F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Portable Helipad Light 01 red F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Light Bulb",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Lights"
+}, {
+  "name" : "Portable Heli Light Green",
+  "pictureItem" : "Portable Helipad Light 01 green F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Portable Helipad Light 01 green F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Light Bulb",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Lights"
+}, {
+  "name" : "Portable Heli Light Blue",
+  "pictureItem" : "Portable Helipad Light 01 blue F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Portable Helipad Light 01 blue F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Light Bulb",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Lights"
+}, {
+  "name" : "Portable Heli Light",
+  "pictureItem" : "Land Portable Helipad Light 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Portable Helipad Light 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Light Bulb",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Lights"
+}, {
+  "name" : "Mine Sign",
+  "pictureItem" : "Land Sign Mines F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Sign Mines F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Signs"
+}, {
+  "name" : "Tool Trolley 2",
+  "pictureItem" : "Land Tool Trolley 02 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Tool Trolley 02 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Tool Trolley 1",
+  "pictureItem" : "Land Tool Trolley 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Tool Trolley 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Wooden Shelves Khaki",
+  "pictureItem" : "Land Shelves Wooden khaki F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Shelves Wooden khaki F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Hammer", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Log",
+    "quantity" : 2
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Wooden Shelves Blue",
+  "pictureItem" : "Land Shelves Wooden blue F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Shelves Wooden blue F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Hammer", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Log",
+    "quantity" : 2
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Wooden Shelves",
+  "pictureItem" : "Land Shelves Wooden F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Shelves Wooden F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Hammer", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Log",
+    "quantity" : 2
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Microwave",
+  "pictureItem" : "Land Microwave 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Microwave 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "Metal Case",
+  "pictureItem" : "Land Metal Case 01 large F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Metal Case 01 large F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Fridge",
+  "pictureItem" : "Fridge 01 closed F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Fridge 01 closed F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Infantry Target",
+  "pictureItem" : "Target P Inf F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Target P Inf F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Targets"
+}, {
+  "name" : "Dueling Target",
+  "pictureItem" : "Land Target Dueling 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Target Dueling 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Targets"
+}, {
+  "name" : "Tape Sign",
+  "pictureItem" : "Tape Sign F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Tape Sign F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Signs"
+}, {
+  "name" : "Road Cone 2",
+  "pictureItem" : "Road Cone L F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Road Cone L F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Hammer" ],
+  "components" : [ {
+    "name" : "Water Canister Empty",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "Road Cone 1",
+  "pictureItem" : "Road Cone F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Road Cone F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Hammer" ],
+  "components" : [ {
+    "name" : "Water Canister Empty",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "Road Barrier 2",
+  "pictureItem" : "Road Barrier small F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Road Barrier small F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Hammer" ],
+  "components" : [ {
+    "name" : "Wood Log",
+    "quantity" : 2
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 1
+  }, {
+    "name" : "Light Bulb",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "Road Barrier 1",
+  "pictureItem" : "Road Barrier F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Road Barrier F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Hammer" ],
+  "components" : [ {
+    "name" : "Wood Log",
+    "quantity" : 2
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "Plastic Barrier Orange",
+  "pictureItem" : "Plastic Barrier 03 orange F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Plastic Barrier 03 orange F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 5
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "Plastic Barrier Blue",
+  "pictureItem" : "Plastic Barrier 03 blue F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Plastic Barrier 03 blue F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 5
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "Plastic Barrier Yellow",
+  "pictureItem" : "Plastic Barrier 02 yellow F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Plastic Barrier 02 yellow F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 5
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "Plastic Barrier Grey",
+  "pictureItem" : "Plastic Barrier 02 grey F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Plastic Barrier 02 grey F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 5
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "Arrows Left",
+  "pictureItem" : "Arrow Desk L F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Arrow Desk L F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "Arrows Right",
+  "pictureItem" : "Arrow Desk R F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Arrow Desk R F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "Workbench 2.0",
+  "pictureItem" : "Land Workbench 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Workbench 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Welding Trolley",
+  "pictureItem" : "Land Welding Trolley 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Welding Trolley 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Supply"
+}, {
+  "name" : "Pressure Washer",
+  "pictureItem" : "Land Pressure Washer 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Pressure Washer 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Supply"
+}, {
+  "name" : "Pallet Trolley",
+  "pictureItem" : "Land Pallet Trolley 01 yellow F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Pallet Trolley 01 yellow F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Engine Crane",
+  "pictureItem" : "Land Engine Crane 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Engine Crane 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Supply"
+}, {
+  "name" : "Diesel Groundpower Unit",
+  "pictureItem" : "Land Diesel Ground Power Unit 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Diesel Ground Power Unit 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Supply"
+}, {
+  "name" : "Office Table",
+  "pictureItem" : "Office Table 01 new F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Office Table 01 new F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Hammer", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 4
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Wooden Table Large",
+  "pictureItem" : "Land Wooden Table large F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Wooden Table large F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Hammer", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Log",
+    "quantity" : 4
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Wooden Table Small",
+  "pictureItem" : "Land Wooden Table small F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Wooden Table small F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Hammer", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Log",
+    "quantity" : 2
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Plastic Table",
+  "pictureItem" : "Land Table Plastic 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Table Plastic 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 4
+  }, {
+    "name" : "Rope",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Sunshades",
+  "pictureItem" : "Land Sunshade F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Sunshade F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Hammer", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Log",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Sunshade 03",
+  "pictureItem" : "Land Sunshade 03 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Sunshade 03 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Hammer", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Log",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Sunshade 02",
+  "pictureItem" : "Land Sunshade 02 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Sunshade 02 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Hammer", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Log",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Sunshade 01",
+  "pictureItem" : "Land Sunshade 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Sunshade 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Hammer", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Log",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Sunchair green",
+  "pictureItem" : "Land Sun chair green F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Sun chair green F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Hammer", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 5
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Sleeping Bag Brown",
+  "pictureItem" : "Land Sleeping bag brown F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Sleeping bag brown F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Rope",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Tents"
+}, {
+  "name" : "Sleeping Bag Blue",
+  "pictureItem" : "Land Sleeping bag blue F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Sleeping bag blue F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Rope",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Tents"
+}, {
+  "name" : "Rattan Table",
+  "pictureItem" : "Land Rattan Table 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Rattan Table 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 8
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Rattan Chair",
+  "pictureItem" : "Land Rattan Chair 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Rattan Chair 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Printer",
+  "pictureItem" : "Land Printer 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Printer 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "PC Screen",
+  "pictureItem" : "Land PCSet 01 screen F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land PCSet 01 screen F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "PC Mouse",
+  "pictureItem" : "Land PCSet 01 mouse F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land PCSet 01 mouse F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "PC Keyboard",
+  "pictureItem" : "Land PCSet 01 keyboard F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land PCSet 01 keyboard F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "PC Case",
+  "pictureItem" : "Land PCSet 01 case F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land PCSet 01 case F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 4
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "Office Chair",
+  "pictureItem" : "Land Office Chair 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Office Chair 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 4
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Office Cabinet",
+  "pictureItem" : "Land Office Cabinet 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Office Cabinet 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 4
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Gym Rack",
+  "pictureItem" : "Land Gym Rack 03 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Gym Rack 03 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Misc"
+}, {
+  "name" : "Gym Bench",
+  "pictureItem" : "Land Gym Bench 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Gym Bench 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Misc"
+}, {
+  "name" : "Zbox Controller",
+  "pictureItem" : "Land Gaming Set 01 controller F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Gaming Set 01 controller F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "Zbox Console",
+  "pictureItem" : "Land Gaming Set 01 console F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Gaming Set 01 console F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "Plastic Chair",
+  "pictureItem" : "Land Chair Plastic F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Chair Plastic F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Flat TV",
+  "pictureItem" : "Land Flat TV 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Flat TV 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "Huron Ammo",
+  "pictureItem" : "B Slingload 01 Ammo F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "B Slingload 01 Ammo F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 3
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 5
+  }, {
+    "name" : "Storage Crate Kit",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Supply"
+}, {
+  "name" : "Huron Fuel",
+  "pictureItem" : "B Slingload 01 fuel F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "B Slingload 01 fuel F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 5
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 5
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Supply"
+}, {
+  "name" : "Suitcase",
+  "pictureItem" : "Land Suitcase F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Suitcase F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Ammo Box",
+  "pictureItem" : "Land Ammobox rounds F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Ammobox rounds F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Duct Tape",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Research Small",
+  "pictureItem" : "Land Research house V1 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Research house V1 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Duct Tape",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Research Big",
+  "pictureItem" : "Land Research HQ F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Research HQ F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Duct Tape",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Plastic Case",
+  "pictureItem" : "Land Plastic Case 01 medium F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Plastic Case 01 medium F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Duct Tape",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "House Big",
+  "pictureItem" : "Land i House Big 01 V2 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land i House Big 01 V2 F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 2
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 3
+  }, {
+    "name" : "Sand",
+    "quantity" : 3
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Bungalow",
+  "pictureItem" : "Land i House Small 03 V1 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land i House Small 03 V1 F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Concrete Mixer",
+  "pictureItem" : "Exile Concrete Mixer Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Exile Concrete Mixer Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Portable Generator Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 4
+  }, {
+    "name" : "Duct Tape",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Supply"
+}, {
+  "name" : "Flag CSAT",
+  "pictureItem" : "Flag CSAT F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Flag CSAT F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Duct Tape",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Signs"
+}, {
+  "name" : "Garbage Container",
+  "pictureItem" : "Land Garbage Container closed F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Garbage Container closed F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Metal Rack 4 Layers",
+  "pictureItem" : "Land Metal rack F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Metal rack F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Water Sink",
+  "pictureItem" : "Land Sink F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Sink F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Supply"
+}, {
+  "name" : "Pavement Wide Corner",
+  "pictureItem" : "Land Pavement wide corner F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Pavement wide corner F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "Pavement Wide",
+  "pictureItem" : "Land Pavement wide F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Pavement wide F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "Pavement Narrow Corner",
+  "pictureItem" : "Land Pavement narrow corner F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Pavement narrow corner F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "Pavement Narrow",
+  "pictureItem" : "Land Pavement narrow F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Pavement narrow F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "Altis Map",
+  "pictureItem" : "Map Board altis F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Map Board altis F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Handsaw" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 1
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Signs"
+}, {
+  "name" : "Camping Table",
+  "pictureItem" : "Land Camping Table F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Camping Table F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 1
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Campinglight",
+  "pictureItem" : "Land Camping Light F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Camping Light F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Light Bulb",
+    "quantity" : 1
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Lights"
+}, {
+  "name" : "Camping Chair V2",
+  "pictureItem" : "Land Camping Chair V2 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Camping Chair V2 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Camping Chair V1",
+  "pictureItem" : "Land Camping Chair V1 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Camping Chair V1 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Small Stone 2",
+  "pictureItem" : "Land Small Stone 02 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Small Stone 02 F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Misc"
+}, {
+  "name" : "Solar Panel 2",
+  "pictureItem" : "Land spp Panel F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land spp Panel F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "Solar Panel",
+  "pictureItem" : "Land Solar Panel 2 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Solar Panel 2 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "Sleeping Bag",
+  "pictureItem" : "Land Sleeping bag F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Sleeping bag F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Rope",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Tents"
+}, {
+  "name" : "Sharp Stone 2",
+  "pictureItem" : "Land Sharp Stone 02 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Sharp Stone 02 F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Misc"
+}, {
+  "name" : "Sharp Stone 1",
+  "pictureItem" : "Land Sharp Stone 01 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Sharp Stone 01 F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Misc"
+}, {
+  "name" : "Bush",
+  "pictureItem" : "Exile Plant Green Bush Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Exile Plant Green Bush Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Woodlog",
+    "quantity" : 5
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Misc"
+}, {
+  "name" : "Transmission Tower",
+  "pictureItem" : "Land TTower Small 1 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land TTower Small 1 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Foolbox" ],
+  "components" : [ {
+    "name" : "Extension Cord",
+    "quantity" : 2
+  }, {
+    "name" : "Rope",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Electronics"
+}, {
+  "name" : "Unexploded Ammo Sign",
+  "pictureItem" : "Land Sign Warning Unexploded Ammo F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Sign Warning Unexploded Ammo F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Foolbox", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Signs"
+}, {
+  "name" : "Castle Tower",
+  "pictureItem" : "Land Castle 01 tower F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Castle 01 tower F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Beach Booth",
+  "pictureItem" : "Land Beach Booth 01 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Beach Booth 01 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Woodlog",
+    "quantity" : 3
+  }, {
+    "name" : "Rope",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Barracks",
+  "pictureItem" : "Land i Barracks V1 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land i Barracks V1 F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Airport Tower",
+  "pictureItem" : "Land Airport Tower F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Airport Tower F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Woodlog",
+    "quantity" : 5
+  }, {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Sand",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Shabby Lamp",
+  "pictureItem" : "Land Lamp Shabby F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Lamp Shabby F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Handsaw" ],
+  "components" : [ {
+    "name" : "Woodlog",
+    "quantity" : 8
+  }, {
+    "name" : "Extension Cord",
+    "quantity" : 2
+  }, {
+    "name" : "Light Bulb",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Light Bulb",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Lights"
+}, {
+  "name" : "Sunshade",
+  "pictureItem" : "Land Sunshade 04 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Sunshade 04 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Woodlog",
+    "quantity" : 1
+  }, {
+    "name" : "Rope",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Sunchair",
+  "pictureItem" : "Land Sun chair F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Sun chair F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Woodlog",
+    "quantity" : 2
+  }, {
+    "name" : "Rope",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Solar Tower",
+  "pictureItem" : "Land spp Tower F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land spp Tower F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Light Bulb",
+    "quantity" : 4
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Metal Shed",
+  "pictureItem" : "Land Metal Shed F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Metal Shed F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 3
+  }, {
+    "name" : "Woodlog",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Airplane Hangar",
+  "pictureItem" : "Land Hangar F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Hangar F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers", "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Rope",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 4
+  }, {
+    "name" : "Duct Tape",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Big Dome",
+  "pictureItem" : "Land Dome Big F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Dome Big F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers", "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 4
+  }, {
+    "name" : "Rope",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Street Lamp",
+  "pictureItem" : "Land Lamp Street F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Lamp Street F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Extension Cord",
+    "quantity" : 4
+  }, {
+    "name" : "Light Bulb",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Lights"
+}, {
+  "name" : "Tavern middle",
+  "pictureItem" : "Land i Addon 03mid V1 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land i Addon 03mid V1 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 10
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 5
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Tavern",
+  "pictureItem" : "Land i Addon 03 V1 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land i Addon 03 V1 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 10
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 5
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Sea Wall",
+  "pictureItem" : "Land Sea Wall F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Sea Wall F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Misc"
+}, {
+  "name" : "Industryfence 3pts",
+  "pictureItem" : "Land Ind Fnc 9 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Ind Fnc 9 F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 3
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Industryfence",
+  "pictureItem" : "Land Ind Fnc 3 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Ind Fnc 3 F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Cargo Container Small",
+  "pictureItem" : "Land Cargo Box V1 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Cargo Box V1 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Concrete Block",
+  "pictureItem" : "Block Concrete F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Block Concrete F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 4
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Misc"
+}, {
+  "name" : "Chair",
+  "pictureItem" : "Land Chair Wood F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Chair Wood F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 5
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Toiletbox",
+  "pictureItem" : "Land Toilet Box F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Toilet Box F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 4
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Misc"
+}, {
+  "name" : "Table",
+  "pictureItem" : "Land Table Desk F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Table Desk F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 10
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Furniture"
+}, {
+  "name" : "Slumplane",
+  "pictureItem" : "Land Cargo addon02 V2 F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Cargo addon02 V2 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Woodlog",
+    "quantity" : 4
+  }, {
+    "name" : "Rope",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Tents"
+}, {
+  "name" : "Small Radar",
+  "pictureItem" : "Land Radar Small F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Radar Small F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 4
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Extension Cord",
+    "quantity" : 5
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Floodlight double",
+  "pictureItem" : "Land Portable Light double F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Portable Light double F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Light Bulb",
+    "quantity" : 6
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Extension Cord",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Lights"
+}, {
+  "name" : "Small concrete wall 8m",
+  "pictureItem" : "Land Concrete Small Wall 8m F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Concrete Small Wall 8m F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Small concrete wall 4m",
+  "pictureItem" : "Land Concrete Small Wall 4m F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Concrete Small Wall 4m F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Sand",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Military Vehicle Sign",
+  "pictureItem" : "Land Sign Warning Military Vehicles F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Sign Warning Military Vehicles F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 1
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Signs"
+}, {
+  "name" : "Military Sign Small",
+  "pictureItem" : "Land Sign Warning Mil Area Small F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Sign Warning Mil Area Small F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 1
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Signs"
+}, {
+  "name" : "Watersource",
+  "pictureItem" : "Land Water source F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Water source F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 1
+  }, {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Sand",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Supply"
+}, {
+  "name" : "Tourist Shelter",
+  "pictureItem" : "Land Tourist Shelter 01 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Tourist Shelter 01 F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Shovel" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 1
+  }, {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 5
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Big Shed",
+  "pictureItem" : "Land Shed Big F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Shed Big F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Foolbox" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Crashbarrier",
+  "pictureItem" : "Land Crash barrier F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Crash barrier F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "CNC Barrier Medium",
+  "pictureItem" : "Land Cnc Barrier Medium F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Cnc Barrier Medium F Kit",
+    "quantity" : 2
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Sand",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "CNC Barrier 1",
+  "pictureItem" : "Land Cnc Wall1 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Cnc Wall1 F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Sand",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "Airportlamp",
+  "pictureItem" : "Land Lamp Airport F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Lamp Airport F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
+  "components" : [ {
+    "name" : "Extension Cord",
+    "quantity" : 4
+  }, {
+    "name" : "Light Bulb",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Lights"
+}, {
+  "name" : "Halogen Base Lamp",
+  "pictureItem" : "Land Lamp Halogen F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Lamp Halogen F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
+  "components" : [ {
+    "name" : "Light Bulb",
+    "quantity" : 10
+  }, {
+    "name" : "Extension Cord",
+    "quantity" : 5
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Lights"
+}, {
+  "name" : "Tent Hangar",
+  "pictureItem" : "Land Tent Hangar V1 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Tent Hangar V1 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers", "Handsaw", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Woodlog",
+    "quantity" : 5
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Rope",
+    "quantity" : 3
+  }, {
+    "name" : "Duct Tape",
+    "quantity" : 5
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Tents"
+}, {
+  "name" : "Tent Dome",
+  "pictureItem" : "Land Tent Dome F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Land Tent Dome F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Woodlog",
+    "quantity" : 2
+  }, {
+    "name" : "Rope",
+    "quantity" : 2
+  }, {
+    "name" : "Duct Tape",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Tents"
+}, {
+  "name" : "Platform",
+  "pictureItem" : "Land GH Platform F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land GH Platform F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Sand",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Garage",
+  "pictureItem" : "Land i Garage V2 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land i Garage V2 F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 1
+  }, {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "CNC Stairs",
+  "pictureItem" : "Land GH Stairs F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land GH Stairs F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Sand",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Cargo container Sand Small",
+  "pictureItem" : "Land Cargo20 sand F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Cargo20 sand F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Broken Shed",
+  "pictureItem" : "Land u Addon 01 V1 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land u Addon 01 V1 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 6
+  }, {
+    "name" : "Cement",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Razorwire",
+  "pictureItem" : "Land Razorwire F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Razorwire F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers", "Grinder" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 6
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Small Shed",
+  "pictureItem" : "Land Shed Small F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Shed Small F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Fuelstation Shed",
+  "pictureItem" : "Land Fuel Station Shed F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Fuel Station Shed F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 4
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Supply"
+}, {
+  "name" : "CNC Wall Type 2",
+  "pictureItem" : "Land Cnc Wall4 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Cnc Wall4 F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "CNC Wall",
+  "pictureItem" : "Land Wall Ind Cnc 2deco F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Wall Ind Cnc 2deco F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "CNC Shelter",
+  "pictureItem" : "Land Cnc Shelter F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Cnc Shelter F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Sand",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Slum Container",
+  "pictureItem" : "Land cargo house slum F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land cargo house slum F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Huge Container",
+  "pictureItem" : "Land Cargo40 light green F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Cargo40 light green F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 6
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 6
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Military Cargo House",
+  "pictureItem" : "Land Cargo House V2 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Cargo House V2 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 5
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 6
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Shooting Pos",
+  "pictureItem" : "Shooting Pos F Kit",
+  "interactionGrp" : null,
+  "returnedItems" : [ {
+    "name" : "Shooting Pos F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ ],
+  "components" : [ {
+    "name" : "Woodlog",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Bag Bunker Big",
+  "pictureItem" : "Land Bag Bunker Large F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Bag Bunker Large F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 5
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 5
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 4
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Pumpstation",
+  "pictureItem" : "Land Fuel Station Feed F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Fuel Station Feed F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 5
+  }, {
+    "name" : "Water Barrel Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Supply"
+}, {
+  "name" : "Cargo Tower Big",
+  "pictureItem" : "Land Cargo Tower V2 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Cargo Tower V2 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 6
+  }, {
+    "name" : "Land Cargo House V2 F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 6
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Metal Shelf",
+  "pictureItem" : "Land Shelves Metal F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Shelves Metal F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 3
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 5
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 5
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Rusty Tank",
+  "pictureItem" : "Land Tank rust F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Tank rust F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Water Barrel Kit",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Supply"
+}, {
+  "name" : "Steelfence",
+  "pictureItem" : "Land Wall Tin 4 Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Wall Tin 4 Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Pier",
+  "pictureItem" : "Land Pier small F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Pier small F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Woodlog",
+    "quantity" : 10
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 5
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Land Cargo Patrol",
+  "pictureItem" : "Land Cargo Patrol V2 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Cargo Patrol V2 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 3
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Concrete Wall Military 4m",
+  "pictureItem" : "Land Mil Wall Big 4m F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Mil Wall Big 4m F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 1
+  }, {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Military Area",
+  "pictureItem" : "Land Sign Warning Military Area F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Sign Warning Military Area F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Signs"
+}, {
+  "name" : "Icebox",
+  "pictureItem" : "Land Icebox F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Icebox F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Pliers" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 2
+  }, {
+    "name" : "Plastic Bottle Empty",
+    "quantity" : 10
+  }, {
+    "name" : "Duct Tape",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Bar Gate",
+  "pictureItem" : "Land Bar Gate F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Bar Gate F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "City Gate",
+  "pictureItem" : "Land City Gate F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land City Gate F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "A Shelf",
+  "pictureItem" : "Land Rack F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Rack F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Wood Plank",
+    "quantity" : 4
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Helipad",
+  "pictureItem" : "Land Helipad Civil F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Helipad Civil F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Cooking Pot" ],
+  "components" : [ {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  }, {
+    "name" : "Duct Tape",
+    "quantity" : 2
+  }, {
+    "name" : "Cement",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Concrete Wall 8m",
+  "pictureItem" : "Land City2 8m F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land City2 8m F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Concrete Wall 4m",
+  "pictureItem" : "Land City2 4m F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land City2 4m F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Concrete Wall",
+  "pictureItem" : "Land Wall Ind Cnc 4 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Wall Ind Cnc 4 F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Concrete Ramp",
+  "pictureItem" : "Land Ramp Concrete F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Ramp Concrete F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Sandbag Barrier Big Corner",
+  "pictureItem" : "Land HBarrier Wall corner F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land HBarrier Wall corner F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Bunker HUGE",
+  "pictureItem" : "Land Bunker F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Bunker F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Land Cargo40 light green F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Cement",
+    "quantity" : 2
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Bag Bunker Small",
+  "pictureItem" : "Land Bag Bunker Small F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Bag Bunker Small F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 4
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Metal Wooden Shelf",
+  "pictureItem" : "Land Metal wooden rack F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Metal wooden rack F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 1
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Sandbag Tower",
+  "pictureItem" : "Land HBarrier Tower F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land HBarrier Tower F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 5
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
+}, {
+  "name" : "Sandbags Long",
+  "pictureItem" : "Land Bag Fence Long F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Bag Fence Long F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Sandbag Corner",
+  "pictureItem" : "Land Bag Fence Corner F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Bag Fence Corner F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Land Container",
+  "pictureItem" : "Land Cargo20 military green F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Cargo20 military green F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 6
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Ammobox",
+  "pictureItem" : "Land Pallet Mil Boxes F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Pallet Mil Boxes F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Foolbox" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Storage Crate Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Storages"
+}, {
+  "name" : "Water Cooler",
+  "pictureItem" : "Land Water Cooler 01 new F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Water Cooler 01 new F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder", "Screwdriver" ],
+  "components" : [ {
+    "name" : "Metal Board",
+    "quantity" : 4
+  }, {
+    "name" : "Water Barrel Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Screws",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Supply"
+}, {
+  "name" : "Concrete Barrier",
+  "pictureItem" : "Land Cnc Barrier F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Cnc Barrier F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Empty",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Empty",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Sand",
+    "quantity" : 1
+  }, {
+    "name" : "Fuel Canister Full",
+    "quantity" : 1
+  }, {
+    "name" : "Water Canister Dirty Water",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Street Stuff"
+}, {
+  "name" : "Stone Wall",
+  "pictureItem" : "Land Stone 4m F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Stone 4m F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel" ],
+  "components" : [ {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Sand",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Stone Gate",
+  "pictureItem" : "Land Stone Gate F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Stone Gate F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Shovel", "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Cement",
+    "quantity" : 1
+  }, {
+    "name" : "Sand",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Ladder",
+  "pictureItem" : "Pier Ladder F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Pier Ladder F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Grinder" ],
+  "components" : [ {
+    "name" : "Metal Pole",
+    "quantity" : 3
+  }, {
+    "name" : "Junk Metal",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Misc"
+}, {
+  "name" : "Barrier",
+  "pictureItem" : "Land HBarrier 1 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land HBarrier 1 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Barrier3",
+  "pictureItem" : "Land HBarrier 3 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land HBarrier 3 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Barrier5",
+  "pictureItem" : "Land HBarrier 5 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land HBarrier 5 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 1
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Sandbag Barrier Big 4m",
+  "pictureItem" : "Land HBarrier Wall4 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land HBarrier Wall4 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Land HBarrier 3 F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Sandbag Barrier Big 6m",
+  "pictureItem" : "Land HBarrier Wall6 F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land HBarrier Wall6 F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Land HBarrier Wall4 F Kit",
+    "quantity" : 1
+  }, {
+    "name" : "Sand",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 2
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : false,
+  "requiresConcreteMixer" : false,
+  "category" : "Walls"
+}, {
+  "name" : "Bag Bunker",
+  "pictureItem" : "Land Bag Bunker Tower F Kit",
+  "interactionGrp" : "Work Bench",
+  "returnedItems" : [ {
+    "name" : "Land Bag Bunker Tower F Kit",
+    "quantity" : 1
+  } ],
+  "tools" : [ "Pliers" ],
+  "components" : [ {
+    "name" : "Sand",
+    "quantity" : 3
+  }, {
+    "name" : "Metal Board",
+    "quantity" : 1
+  }, {
+    "name" : "Metal Pole",
+    "quantity" : 2
+  }, {
+    "name" : "Wood Plank",
+    "quantity" : 2
+  }, {
+    "name" : "Metal Wire",
+    "quantity" : 5
+  } ],
+  "requiresOcean" : false,
+  "requiresFire" : true,
+  "requiresConcreteMixer" : false,
+  "category" : "Buildings"
 } ]
