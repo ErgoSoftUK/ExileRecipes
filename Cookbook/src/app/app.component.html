@@ -2,7 +2,7 @@
   <div class="row h-100">
     <div class="col-md-6 mt-4 mb-4" [class.mobile-hide]="selectedRecipe != null">
       <div class="card h-100">
-        <div class="card-header bg-info"><h3>Craftable items</h3></div>
+        <div class="card-header"><h3>Craftable items</h3></div>
         <div class="card-body" style="height: calc(100% - 66px);">
           <div class="row h-100">
             <div class="form-group col-md-12">
@@ -36,7 +36,7 @@
     </div>
     <div class="col-md-6">
       <div class="card mt-4" *ngIf="selectedRecipe != null">
-        <div class="card-header bg-info"><h3>Recipe <button class="btn pull-right mobile-show" (click)="selectedRecipe = null">Back</button></h3></div>
+        <div class="card-header"><h3>Recipe <button class="btn pull-right mobile-show" (click)="selectedRecipe = null">Back</button></h3></div>
         <div class="card-body">
           <div class="row">
 

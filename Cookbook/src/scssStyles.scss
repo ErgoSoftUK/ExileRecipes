@@ -1,1 +1,42 @@
+//** Import base variables & functions**//
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+
+//** Set theme colour vars **//
+$exile-light:   #888e91;
+$exile-med:     #363d44;
+$exile-dark:    #202428;
+$exile-darkest: #121417;
+$exile-bg:      #181b1f;
+
+//** Set custom bootstrap variable values **//
+
+// Cards
+$card-cap-bg: $exile-darkest;
+$card-bg:     $exile-dark;
+
+// Tables
+$table-border-color: $card-cap-bg;
+
+// Inputs
+$input-border-color: $exile-light;
+$input-group-addon-border-color: $exile-light;
+
+$input-color: $exile-light;
+$input-bg: $exile-med;
+
+$input-focus-color: $exile-darkest;
+$input-focus-bg: $exile-light;
+
+$input-group-addon-bg: $exile-light;
+
+$input-disabled-bg: $exile-med;
+
+// Core
+body {
+  color: $exile-light !important;
+  background-color: $exile-bg !important;
+}
+
+//** Import the rest of boostrap **//
 @import "~bootstrap/scss/bootstrap";
