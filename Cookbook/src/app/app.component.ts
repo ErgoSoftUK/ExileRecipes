@@ -8,7 +8,6 @@ import {Recipe} from './models/Recipe';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  title = 'app';
   recipes: Recipe[];
   results: Recipe[];
   term: string;
@@ -28,12 +27,30 @@ export class AppComponent implements OnInit {
     if (this.term == null || this.term === '') {
       this.results = this.recipes;
     } else {
-      this.results = this.recipes.filter(r => r.name.toLowerCase().indexOf(this.term.toLowerCase()) >= 0);
+      if (this.term.startsWith('returns:')) {
+        const t = this.term.substr(8);
+        this.results = this.recipes.filter(r =>
+          r.returnedItems.filter(
+            ri => ri.name.toLowerCase() === t.toLowerCase()
+          ).length > 0
+        );
+        if (this.results.length === 1) {
+          this.selectedRecipe = this.results[0];
+        }
+      } else {
+        this.results = this.recipes.filter(r => r.name.toLowerCase().indexOf(this.term.toLowerCase()) >= 0);
+      }
     }
   }
 
   clear() {
     this.term = null;
+    this.search();
+  }
+
+  goto(name: string) {
+    this.term = name;
+    this.selectedRecipe = null;
     this.search();
   }
 
