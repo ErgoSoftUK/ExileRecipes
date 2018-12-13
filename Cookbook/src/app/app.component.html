@@ -8,7 +8,7 @@
             <div class="form-group col-md-12">
               <label class="form-control-label">Search</label>
               <div class="input-group">
-                <input type="text" class="form-control" placeholder="Enter search text" [(ngModel)]="term" (keyup)="search()" autofocus>
+                <input type="text" class="form-control" placeholder="Enter search text" [(ngModel)]="term" (keyup)="refresh('', term)" autofocus>
                 <span class="input-group-append">
                         <i class="fa fa-times input-group-text" (click)="clear()"></i>
                       </span>
@@ -23,7 +23,7 @@
                       </tr>
                     </thead>
                     <tbody>
-                      <tr *ngFor="let item of results" (click)="selectedRecipe = item">
+                      <tr *ngFor="let item of results" (click)="view(item.name)">
                         <td>{{item.name}}</td>
                       </tr>
                     </tbody>
@@ -48,8 +48,8 @@
             <div class="form-group col-md-12" *ngIf="needsNearby()">
               <label class="form-control-label">Nearby</label>
               <div>
-                <button class="btn btn-danger mb-2" *ngIf="selectedRecipe.interactionGrp" (click)="goto(selectedRecipe.interactionGrp)">{{selectedRecipe.interactionGrp}}</button>
-                <button class="btn btn-danger mb-2" *ngIf="selectedRecipe.requiresConcreteMixer" (click)="goto('Concrete Mixer')">Concrete mixer</button>
+                <button class="btn btn-danger mb-2" *ngIf="selectedRecipe.interactionGrp" (click)="view(selectedRecipe.interactionGrp)">{{selectedRecipe.interactionGrp}}</button>
+                <button class="btn btn-danger mb-2" *ngIf="selectedRecipe.requiresConcreteMixer" (click)="view('Concrete Mixer')">Concrete mixer</button>
                 <button class="btn btn-danger mb-2" *ngIf="selectedRecipe.requiresFire">Fire</button>
                 <button class="btn btn-danger mb-2" *ngIf="selectedRecipe.requiresOcean">Ocean</button>
               </div>
@@ -68,7 +68,7 @@
               <label class="form-control-label">Components</label>
               <div>
                 <ng-container *ngFor="let item of selectedRecipe.components">
-                  <button class="btn btn-success mb-2" (click)="goto('returns:'+item.name)">{{item.name}} <span class="badge badge-light">{{item.quantity}}</span></button>
+                  <button class="btn btn-success mb-2" (click)="view('returns:'+item.name)">{{item.name}} <span class="badge badge-light">{{item.quantity}}</span></button>
                 </ng-container>
               </div>
             </div>

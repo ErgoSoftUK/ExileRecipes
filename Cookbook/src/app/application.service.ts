@@ -6,11 +6,25 @@ import {Recipe} from './models/Recipe';
 
 @Injectable()
 export class ApplicationService {
+  private recipes: Recipe[] = null;
 
   constructor(private http: Http) { }
 
   public loadData(): Observable<Recipe[]> {
-    return this.http.get('./assets/recipes.json')
-      .map((res) => res.json());
+    if (this.recipes == null) {
+      return Observable.create((o) => {
+        this.http.get('./assets/recipes.json')
+          .map((res) => res.json())
+          .subscribe(
+            (result) => {
+              this.recipes = result;
+              o.next(result);
+            },
+            (error) => o.reject(error)
+          );
+      });
+    } else {
+      return Observable.create((o) => o.next(this.recipes));
+    }
   }
 }

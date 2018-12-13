@@ -1,35 +1,48 @@
-import {Component, OnInit} from '@angular/core';
+import {AfterViewInit, Component, OnInit} from '@angular/core';
 import {ApplicationService} from './application.service';
 import {Recipe} from './models/Recipe';
+import {ActivatedRoute, Router} from '@angular/router';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent implements OnInit {
-  recipes: Recipe[];
+export class AppComponent implements AfterViewInit {
   results: Recipe[];
-  term: string;
   selectedRecipe: Recipe;
+  term: string;
 
-  constructor(private service: ApplicationService) {}
+  constructor(private router: Router,
+              private route: ActivatedRoute,
+              private service: ApplicationService) {}
 
-  ngOnInit(): void {
+  ngAfterViewInit(): void {
+    this.route.params.subscribe(
+      (params) => this.refresh(params['action'], params['term'])
+    );
+  }
+
+  refresh(action: string, term?: string) {
     this.service.loadData()
       .subscribe(
-        (result) => this.recipes = this.results = result,
+        (result) => this.search(result, action, term),
         (error) => console.error(error)
       );
   }
 
-  search() {
-    if (this.term == null || this.term === '') {
-      this.results = this.recipes;
+  search(recipes: Recipe[], action: string, term?: string) {
+    this.term = term;
+    if (action === 'view') {
+      const items = recipes.filter(r => r.name === term);
+      this.selectedRecipe = items[0];
+    }
+    if (term == null || term === '') {
+      this.results = recipes;
     } else {
-      if (this.term.startsWith('returns:')) {
-        const t = this.term.substr(8);
-        this.results = this.recipes.filter(r =>
+      if (term.startsWith('returns:')) {
+        const t = term.substr(8);
+        this.results = recipes.filter(r =>
           r.returnedItems.filter(
             ri => ri.name.toLowerCase() === t.toLowerCase()
           ).length > 0
@@ -38,20 +51,17 @@ export class AppComponent implements OnInit {
           this.selectedRecipe = this.results[0];
         }
       } else {
-        this.results = this.recipes.filter(r => r.name.toLowerCase().indexOf(this.term.toLowerCase()) >= 0);
+        this.results = recipes.filter(r => r.name.toLowerCase().indexOf(term.toLowerCase()) >= 0);
       }
     }
   }
 
   clear() {
-    this.term = null;
-    this.search();
+    this.router.navigate(['view', '']);
   }
 
-  goto(name: string) {
-    this.term = name;
-    this.selectedRecipe = null;
-    this.search();
+  view(name: string) {
+    this.router.navigate(['view', name]);
   }
 
   needsNearby(): boolean {
