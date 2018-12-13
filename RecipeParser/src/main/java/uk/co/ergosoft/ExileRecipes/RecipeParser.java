@@ -12,6 +12,6 @@ public class RecipeParser {
             System.exit(1);
         }
 
-        new FileProcessor().execute(args);
+        new ClassProcessor().execute(args);
     }
 }
