@@ -10,7 +10,7 @@ import {Route, RouterModule} from '@angular/router';
 
 const routes: Route[] = [
   {path: ':action/:term', component: AppComponent},
-  {path: '**', redirectTo: 'view/', pathMatch: 'full'}
+  {path: '**', redirectTo: 'search/', pathMatch: 'full'}
 ];
 
 @NgModule({

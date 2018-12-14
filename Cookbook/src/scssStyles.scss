@@ -6,7 +6,7 @@
 $exile-light:   #888e91;
 $exile-med:     #363d44;
 $exile-dark:    #202428;
-$exile-darkest: #121417;
+$exile-darkest: #000000;
 $exile-bg:      #181b1f;
 
 //** Set custom bootstrap variable values **//
@@ -40,3 +40,9 @@ body {
 
 //** Import the rest of boostrap **//
 @import "~bootstrap/scss/bootstrap";
+
+// Additions
+.selected {
+  background: $exile-light;
+  color: $exile-darkest;
+}

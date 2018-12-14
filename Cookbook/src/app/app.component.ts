@@ -32,30 +32,41 @@ export class AppComponent implements AfterViewInit {
   }
 
   search(recipes: Recipe[], action: string, term?: string) {
-    this.term = term;
     if (action === 'view') {
-      const items = recipes.filter(r => r.name === term);
-      this.selectedRecipe = items[0];
-    }
-    if (term == null || term === '') {
-      this.results = recipes;
-    } else {
       if (term.startsWith('returns:')) {
         const t = term.substr(8);
-        this.results = recipes.filter(r =>
-          r.primaryItem != null && r.primaryItem.name.toLowerCase() === t.toLowerCase()
-        );
-        if (this.results.length === 1) {
-          this.selectedRecipe = this.results[0];
-        }
+        const items = recipes.filter(r => r.primaryItem != null && r.primaryItem.name.toLowerCase() === t.toLowerCase());
+        if (items.length > 0)
+          this.selectedRecipe = items[0];
       } else {
-        this.results = recipes.filter(r => r.name.toLowerCase().indexOf(term.toLowerCase()) >= 0);
+        const items = recipes.filter(r => r.name === term);
+        if (items.length > 0)
+          this.selectedRecipe = items[0];
+      }
+    } else {
+      this.selectedRecipe = null;
+      if (term == null || term === '') {
+        this.results = recipes;
+      } else {
+        if (term.startsWith('returns:')) {
+          const t = term.substr(8);
+          this.results = recipes.filter(r =>
+            r.primaryItem != null && r.primaryItem.name.toLowerCase() === t.toLowerCase()
+          );
+          if (this.results.length === 1) {
+            this.selectedRecipe = this.results[0];
+          }
+        } else {
+          this.results = recipes.filter(r => r.name.toLowerCase().indexOf(term.toLowerCase()) >= 0);
+        }
       }
     }
   }
 
   clear() {
-    this.router.navigate(['view', '']);
+    this.term = '';
+    this.selectedRecipe = null;
+    this.router.navigate(['search', '']);
   }
 
   view(name: string) {
