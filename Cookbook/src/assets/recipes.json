@@ -2,10 +2,11 @@
   "name" : "Breaching Charge Big Momma",
   "pictureItem" : "Exile_Item_BreachingCharge_BigMomma",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Breaching Charge Big Momma",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Foolbox" ],
   "components" : [ {
     "name" : "Breaching Charge Metal",
@@ -28,10 +29,11 @@
   "name" : "Breaching Charge Metal",
   "pictureItem" : "Exile_Item_BreachingCharge_Metal",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Breaching Charge Metal",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Foolbox" ],
   "components" : [ {
     "name" : "Duct Tape",
@@ -48,10 +50,11 @@
   "name" : "Breaching Charge Wood",
   "pictureItem" : "Exile_Item_BreachingCharge_Wood",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Breaching Charge Wood",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Foolbox" ],
   "components" : [ {
     "name" : "Duct Tape",
@@ -68,10 +71,11 @@
   "name" : "Cook BBQSandwich",
   "pictureItem" : "Exile_Item_BBQSandwich_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "BBQSandwich Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "BBQSandwich",
@@ -85,10 +89,11 @@
   "name" : "Cook Cat Food",
   "pictureItem" : "Exile_Item_CatFood_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Cat Food Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Cat Food",
@@ -102,10 +107,11 @@
   "name" : "Cook Christmas Tinner",
   "pictureItem" : "Exile_Item_ChristmasTinner_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Christmas Tinner Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Christmas Tinner",
@@ -119,10 +125,11 @@
   "name" : "Cook Coffee",
   "pictureItem" : "Exile_Item_PlasticBottleCoffee",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Plastic Bottle Coffee",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Plastic Bottle Fresh Water",
@@ -139,10 +146,11 @@
   "name" : "Cook Dog Food",
   "pictureItem" : "Exile_Item_DogFood_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Dog Food Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Dog Food",
@@ -156,10 +164,11 @@
   "name" : "Cook Glorious Knakworst",
   "pictureItem" : "Exile_Item_GloriousKnakworst_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Glorious Knakworst Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Glorious Knakworst",
@@ -173,10 +182,11 @@
   "name" : "Cook Macas Cheese",
   "pictureItem" : "Exile_Item_MacasCheese_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Macas Cheese Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Macas Cheese",
@@ -190,10 +200,11 @@
   "name" : "Cook Plastic Bottle Dirty Water",
   "pictureItem" : "Exile_Item_PlasticBottleFreshWater",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Plastic Bottle Fresh Water",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Plastic Bottle Dirty Water",
@@ -207,10 +218,11 @@
   "name" : "Cook Plastic Bottle Salt Water",
   "pictureItem" : "Exile_Item_PlasticBottleFreshWater",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Plastic Bottle Fresh Water",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Plastic Bottle Salt Water",
@@ -224,10 +236,11 @@
   "name" : "Cook Sausage Gravy",
   "pictureItem" : "Exile_Item_SausageGravy_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Sausage Gravy Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Sausage Gravy",
@@ -241,10 +254,11 @@
   "name" : "Cook Surstromming",
   "pictureItem" : "Exile_Item_Surstromming_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Surstromming Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Surstromming",
@@ -258,10 +272,11 @@
   "name" : "Craft Bandage",
   "pictureItem" : "Exile_Item_Bandage",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Bandage",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Toilet Paper",
@@ -275,10 +290,11 @@
   "name" : "Craft Concrete Doorway",
   "pictureItem" : "Exile_Item_ConcreteDoorwayKit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Concrete Doorway Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 3
   }, {
@@ -310,10 +326,11 @@
   "name" : "Craft Concrete Drawbridge",
   "pictureItem" : "Exile_Item_ConcreteDrawBridgeKit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Concrete Draw Bridge Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 4
   }, {
@@ -348,10 +365,11 @@
   "name" : "Craft Concrete Floor",
   "pictureItem" : "Exile_Item_ConcreteFloorKit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Concrete Floor Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 2
   }, {
@@ -383,10 +401,11 @@
   "name" : "Craft Concrete Floor Port",
   "pictureItem" : "Exile_Item_ConcreteFloorPortKit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Concrete Floor Port Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 3
   }, {
@@ -418,10 +437,11 @@
   "name" : "Craft Concrete Floor Port Small",
   "pictureItem" : "Exile_Item_ConcreteFloorPortSmallKit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Concrete Floor Port Small Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 3
   }, {
@@ -453,10 +473,11 @@
   "name" : "Craft Concrete Gate",
   "pictureItem" : "Exile_Item_ConcreteGateKit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Concrete Gate Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 4
   }, {
@@ -488,10 +509,11 @@
   "name" : "Craft Concrete Ladder Hatch",
   "pictureItem" : "Exile_Item_ConcreteLadderHatchKit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Concrete Ladder Hatch Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 3
   }, {
@@ -526,10 +548,11 @@
   "name" : "Craft Concret Stairs",
   "pictureItem" : "Exile_Item_ConcreteStairsKit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Concrete Stairs Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -561,10 +584,11 @@
   "name" : "Craft Concret Support",
   "pictureItem" : "Exile_Item_ConcreteSupportKit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Concrete Support Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -596,10 +620,11 @@
   "name" : "Craft Concrete Wall",
   "pictureItem" : "Exile_Item_ConcreteWallKit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Concrete Wall Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 2
   }, {
@@ -631,10 +656,11 @@
   "name" : "Craft Fire Place",
   "pictureItem" : "Exile_Item_CampFireKit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Camp Fire Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Log",
@@ -648,10 +674,11 @@
   "name" : "Craft Flood Light",
   "pictureItem" : "Exile_Item_FloodLightKit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Flood Light Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -671,10 +698,11 @@
   "name" : "Craft Fortification Upgrade",
   "pictureItem" : "Exile_Item_MetalBoard",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Fortification Upgrade",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -691,10 +719,11 @@
   "name" : "Craft HBarrier5Kit",
   "pictureItem" : "Exile_Item_HBarrier5Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "HBarrier5Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Sand Bags Kit Long",
@@ -711,10 +740,11 @@
   "name" : "Craft Metal Board",
   "pictureItem" : "Exile_Item_MetalBoard",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Metal Board",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -728,10 +758,11 @@
   "name" : "Craft Metal Hedgehog",
   "pictureItem" : "Exile_Item_MetalHedgehogKit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Metal Hedgehog Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -745,10 +776,11 @@
   "name" : "Craft Metal Ladder",
   "pictureItem" : "Exile_Item_MetalLadderKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Metal Ladder Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -762,10 +794,11 @@
   "name" : "Craft Metal Ladder Double",
   "pictureItem" : "Exile_Item_MetalLadderDoubleKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Metal Ladder Double Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Metal Ladder Kit",
@@ -779,10 +812,11 @@
   "name" : "Craft Metal Pole",
   "pictureItem" : "Exile_Item_MetalPole",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Metal Pole",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -796,10 +830,11 @@
   "name" : "Craft Old Chest",
   "pictureItem" : "Exile_Item_OldChestKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Old Chest Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -816,10 +851,11 @@
   "name" : "Craft Portable Generator",
   "pictureItem" : "Exile_Item_PortableGeneratorKit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Portable Generator Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Metal Board",
@@ -839,10 +875,11 @@
   "name" : "Craft Repair Kit Concrete",
   "pictureItem" : "Exile_Item_Cement",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Repair Kit Concrete",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -871,10 +908,11 @@
   "name" : "Craft Repair Kit Metal",
   "pictureItem" : "Exile_Item_RepairKitMetal",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Repair Kit Metal",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Foolbox", "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -888,10 +926,11 @@
   "name" : "Craft Repair Kit Wood",
   "pictureItem" : "Exile_Item_RepairKitWood",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Repair Kit Wood",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Foolbox" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -905,10 +944,11 @@
   "name" : "Craft Sand Bags Kit Corner",
   "pictureItem" : "Exile_Item_SandBagsKit_Corner",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Sand Bags Kit Corner",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Sand",
@@ -922,10 +962,11 @@
   "name" : "Craft Sand Bags Kit Long",
   "pictureItem" : "Exile_Item_SandBagsKit_Long",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Sand Bags Kit Long",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Sand",
@@ -939,10 +980,11 @@
   "name" : "Craft Storage Crate",
   "pictureItem" : "Exile_Item_StorageCrateKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Storage Crate Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -956,10 +998,11 @@
   "name" : "Craft Water Barrel",
   "pictureItem" : "Exile_Item_WaterBarrelKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Water Barrel Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Plastic Bottle Empty",
@@ -973,10 +1016,11 @@
   "name" : "Craft Wire Fence Kit",
   "pictureItem" : "Exile_Item_WireFenceKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wire Fence Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -996,10 +1040,11 @@
   "name" : "Craft Wood Door Way",
   "pictureItem" : "Exile_Item_WoodDoorwayKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Doorway Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -1013,10 +1058,11 @@
   "name" : "Craft Wood Draw Bridge",
   "pictureItem" : "Exile_Item_WoodDrawBridgeKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Draw Bridge Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -1036,10 +1082,11 @@
   "name" : "Craft Wood Floor",
   "pictureItem" : "Exile_Item_WoodFloorKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Floor Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -1053,10 +1100,11 @@
   "name" : "Craft Wood Floor Port",
   "pictureItem" : "Exile_Item_WoodFloorPortKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Floor Port Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -1070,10 +1118,11 @@
   "name" : "Craft Wood Floor Port Small",
   "pictureItem" : "Exile_Item_WoodFloorPortSmallKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Floor Port Small Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -1087,10 +1136,11 @@
   "name" : "Craft Wood Gate",
   "pictureItem" : "Exile_Item_WoodGateKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Gate Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -1104,10 +1154,11 @@
   "name" : "Craft Wood Ladder",
   "pictureItem" : "Exile_Item_WoodLadderKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Ladder Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -1121,10 +1172,11 @@
   "name" : "Craft Wood Ladder Hatch",
   "pictureItem" : "Exile_Item_WoodLadderHatchKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Ladder Hatch Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -1141,10 +1193,11 @@
   "name" : "Craft Wood Plank",
   "pictureItem" : "Exile_Item_WoodPlank",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Plank",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Handsaw" ],
   "components" : [ {
     "name" : "Wood Log",
@@ -1158,10 +1211,11 @@
   "name" : "Craft Wood Stairs",
   "pictureItem" : "Exile_Item_WoodStairsKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Stairs Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -1175,10 +1229,11 @@
   "name" : "Craft Wood Support",
   "pictureItem" : "Exile_Item_WoodSupportKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Support Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -1192,10 +1247,11 @@
   "name" : "Craft Wood Wall",
   "pictureItem" : "Exile_Item_WoodWallKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Wall Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -1209,10 +1265,11 @@
   "name" : "Craft Wood Wall Half",
   "pictureItem" : "Exile_Item_WoodWallHalfKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Wall Half Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -1226,10 +1283,11 @@
   "name" : "Craft Wood Window",
   "pictureItem" : "Exile_Item_WoodWindowKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Window Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -1243,10 +1301,11 @@
   "name" : "Craft Work Bench",
   "pictureItem" : "Exile_Item_WorkBenchKit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Work Bench Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Log",
@@ -1260,10 +1319,11 @@
   "name" : "Cook Alsatian Steak",
   "pictureItem" : "Exile_Item_AlsatianSteak_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Alsatian Steak Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Alsatian Steak Raw",
@@ -1277,10 +1337,11 @@
   "name" : "Cook Cat Shark Filet",
   "pictureItem" : "Exile_Item_CatSharkFilet_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Cat Shark Filet Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Cat Shark Filet Raw",
@@ -1294,10 +1355,11 @@
   "name" : "Cook Chicken Filet",
   "pictureItem" : "Exile_Item_ChickenFilet_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Chicken Filet Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Chicken Filet Raw",
@@ -1311,10 +1373,11 @@
   "name" : "Cook Fin Steak",
   "pictureItem" : "Exile_Item_FinSteak_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Fin Steak Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Fin Steak Raw",
@@ -1328,10 +1391,11 @@
   "name" : "Cook Goat Steak",
   "pictureItem" : "Exile_Item_GoatSteak_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Goat Steak Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Goat Steak Raw",
@@ -1345,10 +1409,11 @@
   "name" : "Cook Mackerel Filet",
   "pictureItem" : "Exile_Item_MackerelFilet_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Mackerel Filet Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Mackerel Filet Raw",
@@ -1362,10 +1427,11 @@
   "name" : "Cook Mullet Filet",
   "pictureItem" : "Exile_Item_MulletFilet_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Mullet Filet Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Mullet Filet Raw",
@@ -1379,10 +1445,11 @@
   "name" : "Cook Ornate Filet",
   "pictureItem" : "Exile_Item_OrnateFilet_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Ornate Filet Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Ornate Filet Raw",
@@ -1396,10 +1463,11 @@
   "name" : "Cook Rabbit Steak",
   "pictureItem" : "Exile_Item_RabbitSteak_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Rabbit Steak Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Rabbit Steak Raw",
@@ -1413,10 +1481,11 @@
   "name" : "Cook Rooster Filet",
   "pictureItem" : "Exile_Item_RoosterFilet_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Rooster Filet Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Rooster Filet Raw",
@@ -1430,10 +1499,11 @@
   "name" : "Cook Salema Filet",
   "pictureItem" : "Exile_Item_SalemaFilet_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Salema Filet Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Salema Filet Raw",
@@ -1447,10 +1517,11 @@
   "name" : "Cook Sheep Steak",
   "pictureItem" : "Exile_Item_SheepSteak_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Sheep Steak Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Sheep Steak Raw",
@@ -1464,10 +1535,11 @@
   "name" : "Cook Snake Filet",
   "pictureItem" : "Exile_Item_SnakeFilet_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Snake Filet Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Snake Filet Raw",
@@ -1481,10 +1553,11 @@
   "name" : "Cook Tuna Filet",
   "pictureItem" : "Exile_Item_TunaFilet_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Tuna Filet Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Tuna Filet Raw",
@@ -1498,10 +1571,11 @@
   "name" : "Cook Turtle Filet",
   "pictureItem" : "Exile_Item_TurtleFilet_Cooked",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Turtle Filet Cooked",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Cooking Pot" ],
   "components" : [ {
     "name" : "Turtle Filet Raw",
@@ -1515,6 +1589,7 @@
   "name" : "Empty Fuel Canister",
   "pictureItem" : "Exile_Item_FuelCanisterEmpty",
   "interactionGrp" : null,
+  "primaryItem" : null,
   "returnedItems" : [ {
     "name" : "Fuel Canister Empty",
     "quantity" : 1
@@ -1532,10 +1607,11 @@
   "name" : "Empty Plastic Bottle Dirty Water",
   "pictureItem" : "Exile_Item_PlasticBottleEmpty",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Plastic Bottle Empty",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Plastic Bottle Dirty Water",
@@ -1549,10 +1625,11 @@
   "name" : "Empty Plastic Bottle Salt Water",
   "pictureItem" : "Exile_Item_PlasticBottleEmpty",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Plastic Bottle Empty",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Plastic Bottle Salt Water",
@@ -1566,10 +1643,11 @@
   "name" : "Fill Empty Plastic Bottle With Dirty Water",
   "pictureItem" : "Exile_Item_PlasticBottleDirtyWater",
   "interactionGrp" : "Water Source",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Plastic Bottle Dirty Water",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Plastic Bottle Empty",
@@ -1583,10 +1661,11 @@
   "name" : "Fill Empty Plastic Bottle With Fresh Water",
   "pictureItem" : "Exile_Item_PlasticBottleFreshWater",
   "interactionGrp" : "Clean Water Source",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Plastic Bottle Fresh Water",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Plastic Bottle Empty",
@@ -1600,10 +1679,11 @@
   "name" : "Fill Empty Plastic Bottle With Salt Water",
   "pictureItem" : "Exile_Item_PlasticBottleSaltWater",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Plastic Bottle Salt Water",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Plastic Bottle Empty",
@@ -1617,10 +1697,11 @@
   "name" : "Fill Empty Water Canister With Dirty Water",
   "pictureItem" : "Exile_Item_WaterCanisterDirtyWater",
   "interactionGrp" : "Water Source",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Water Canister Dirty Water",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Water Canister Empty",
@@ -1634,10 +1715,11 @@
   "name" : "Fill Fuel Canister",
   "pictureItem" : "Exile_Item_FuelCanisterFull",
   "interactionGrp" : "Fuel Source",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Fuel Canister Full",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Fuel Canister Empty",
@@ -1651,10 +1733,11 @@
   "name" : "Upgrade ToConcrete Door",
   "pictureItem" : "Exile_Item_ConcreteDoorKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Concrete Door Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Concrete Doorway Kit",
@@ -1674,10 +1757,11 @@
   "name" : "Upgrade ToConcrete Floor Port",
   "pictureItem" : "Exile_Item_ConcreteFloorPortKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Concrete Floor Port Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Concrete Floor Kit",
@@ -1697,10 +1781,11 @@
   "name" : "Upgrade ToConcrete Gate",
   "pictureItem" : "Exile_Item_ConcreteGateKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Concrete Gate Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Concrete Wall Kit",
@@ -1720,10 +1805,11 @@
   "name" : "Upgrade ToConcrete Window",
   "pictureItem" : "Exile_Item_ConcreteWindowKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Concrete Window Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Concrete Wall Kit",
@@ -1743,10 +1829,11 @@
   "name" : "Upgrade ToWood Door",
   "pictureItem" : "Exile_Item_WoodDoorKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Door Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Doorway Kit",
@@ -1763,10 +1850,11 @@
   "name" : "Upgrade ToWood Draw Bridge",
   "pictureItem" : "Exile_Item_WoodDrawBridgeKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Draw Bridge Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Gate Kit",
@@ -1789,10 +1877,11 @@
   "name" : "Upgrade ToWood Floor Port",
   "pictureItem" : "Exile_Item_WoodFloorPortKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Floor Port Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Floor Kit",
@@ -1809,10 +1898,11 @@
   "name" : "Upgrade ToWood Gate",
   "pictureItem" : "Exile_Item_WoodGateKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Gate Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Wall Kit",
@@ -1829,10 +1919,11 @@
   "name" : "Upgrade ToWood Wall",
   "pictureItem" : "Exile_Item_WoodWallHalfKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Wall Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Wall Half Kit",
@@ -1846,10 +1937,11 @@
   "name" : "Upgrade ToWood Window",
   "pictureItem" : "Exile_Item_WoodWindowKit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Wood Window Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Wood Wall Kit",
@@ -1866,10 +1958,11 @@
   "name" : "EBM door frame",
   "pictureItem" : "EBM_door_frame_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM door frame Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -1889,10 +1982,11 @@
   "name" : "EBM woodencrate",
   "pictureItem" : "EBM_woodencrate_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM woodencrate Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -1909,10 +2003,11 @@
   "name" : "EBM oven",
   "pictureItem" : "EBM_oven_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM oven Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -1938,10 +2033,11 @@
   "name" : "EBM crowsfeet",
   "pictureItem" : "EBM_crowsfeet_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM crowsfeet Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -1964,10 +2060,11 @@
   "name" : "EBM mechanical cover small",
   "pictureItem" : "EBM_mechanical_cover_small_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM mechanical cover small Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -1987,10 +2084,11 @@
   "name" : "EBM ATM",
   "pictureItem" : "EBM_ATM_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM ATM Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
   "components" : [ {
     "name" : "Portable Generator Kit",
@@ -2019,10 +2117,11 @@
   "name" : "EBM pollard",
   "pictureItem" : "EBM_pollard_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM pollard Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver", "Hammer" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -2042,10 +2141,11 @@
   "name" : "EBM Medikit",
   "pictureItem" : "EBM_Medikit_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM Medikit Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Hammer" ],
   "components" : [ {
     "name" : "Plastic Bottle Empty",
@@ -2065,10 +2165,11 @@
   "name" : "EBM Brickwall window",
   "pictureItem" : "EBM_Brickwall_window_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM Brickwall window Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Shovel" ],
   "components" : [ {
     "name" : "EBM Item Bucket Of Mortar",
@@ -2088,15 +2189,16 @@
   "name" : "EBM Brickwall stairs",
   "pictureItem" : "EBM_Brickwall_stairs_Kit",
   "interactionGrp" : null,
+  "primaryItem" : {
+    "name" : "EBM Brickwall stairs Kit",
+    "quantity" : 1
+  },
   "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 2
   }, {
     "name" : "Fuel Canister Empty",
     "quantity" : 2
-  }, {
-    "name" : "EBM Brickwall stairs Kit",
-    "quantity" : 1
   } ],
   "tools" : [ "Shovel" ],
   "components" : [ {
@@ -2120,10 +2222,11 @@
   "name" : "EBM Brickwall floorport door",
   "pictureItem" : "EBM_Brickwall_floorport_door_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM Brickwall floorport door Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Shovel" ],
   "components" : [ {
     "name" : "EBM Item Bucket Of Mortar",
@@ -2143,10 +2246,11 @@
   "name" : "EBM Brickwall floorport",
   "pictureItem" : "EBM_Brickwall_floorport_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM Brickwall floorport Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Shovel" ],
   "components" : [ {
     "name" : "EBM Item Bucket Of Mortar",
@@ -2166,10 +2270,11 @@
   "name" : "EBM Brickwall floor",
   "pictureItem" : "EBM_Brickwall_floor_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM Brickwall floor Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Shovel" ],
   "components" : [ {
     "name" : "EBM Item Bucket Of Mortar",
@@ -2186,10 +2291,11 @@
   "name" : "EBM Brickwall door",
   "pictureItem" : "EBM_Brickwall_door_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM Brickwall door Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Shovel" ],
   "components" : [ {
     "name" : "EBM Item Bucket Of Mortar",
@@ -2209,10 +2315,11 @@
   "name" : "EBM Brickwall hole",
   "pictureItem" : "EBM_Brickwall_hole_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM Brickwall hole Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Shovel" ],
   "components" : [ {
     "name" : "EBM Item Bucket Of Mortar",
@@ -2229,15 +2336,16 @@
   "name" : "EBM Helipad",
   "pictureItem" : "EBM_Helipad_Kit",
   "interactionGrp" : null,
+  "primaryItem" : {
+    "name" : "EBM Helipad Kit",
+    "quantity" : 1
+  },
   "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 3
   }, {
     "name" : "Fuel Canister Empty",
     "quantity" : 3
-  }, {
-    "name" : "EBM Helipad Kit",
-    "quantity" : 1
   } ],
   "tools" : [ "Shovel" ],
   "components" : [ {
@@ -2261,10 +2369,11 @@
   "name" : "EBM Airhook",
   "pictureItem" : "EBM_Airhook_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM Airhook Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -2287,10 +2396,11 @@
   "name" : "EBM Parksign",
   "pictureItem" : "EBM_Parksign_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM Parksign Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -2310,10 +2420,11 @@
   "name" : "EBM Brickwall",
   "pictureItem" : "EBM_Brickwall_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "EBM Brickwall Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Shovel" ],
   "components" : [ {
     "name" : "EBM Item Bucket Of Mortar",
@@ -2330,10 +2441,11 @@
   "name" : "Burning Barrel",
   "pictureItem" : "MetalBarrel_burning_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Metal Barrel burning F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -2347,10 +2459,11 @@
   "name" : "Obstacle Ramp",
   "pictureItem" : "Land_Obstacle_Ramp_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Obstacle Ramp F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -2370,10 +2483,11 @@
   "name" : "Generator",
   "pictureItem" : "Land_PortableGenerator_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Portable Generator 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
   "components" : [ {
     "name" : "Metal Screws",
@@ -2393,10 +2507,11 @@
   "name" : "Projector",
   "pictureItem" : "Land_Projector_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Projector 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Water Canister Empty",
@@ -2419,10 +2534,11 @@
   "name" : "Satellite Antenna",
   "pictureItem" : "Land_SatelliteAntenna_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Satellite Antenna 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
   "components" : [ {
     "name" : "Metal Screws",
@@ -2442,10 +2558,11 @@
   "name" : "Simple Target",
   "pictureItem" : "Target_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Target F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -2465,10 +2582,11 @@
   "name" : "Human Target",
   "pictureItem" : "TargetBootcampHuman_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Target Bootcamp Human F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -2491,10 +2609,11 @@
   "name" : "Inf Acc Target",
   "pictureItem" : "TargetP_Inf_Acc2_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Target P Inf Acc2 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -2517,10 +2636,11 @@
   "name" : "Tripodscreen v1",
   "pictureItem" : "Land_TripodScreen_01_dual_v1_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Tripod Screen 01 dual v1 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -2546,10 +2666,11 @@
   "name" : "Tripodscreen v2",
   "pictureItem" : "Land_TripodScreen_01_dual_v2_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Tripod Screen 01 dual v2 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -2575,10 +2696,11 @@
   "name" : "Tripodscreen large",
   "pictureItem" : "Land_TripodScreen_01_large_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Tripod Screen 01 large F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -2601,10 +2723,11 @@
   "name" : "Waterpump Desert",
   "pictureItem" : "WaterPump_01_sand_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Water Pump 01 sand F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -2627,10 +2750,11 @@
   "name" : "Waterpump Forest",
   "pictureItem" : "WaterPump_01_forest_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Water Pump 01 forest F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -2653,10 +2777,11 @@
   "name" : "Zbox Camera",
   "pictureItem" : "Land_GamingSet_01_camera_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Gaming Set 01 camera F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Water Canister Empty",
@@ -2676,10 +2801,11 @@
   "name" : "Zbox PSU",
   "pictureItem" : "Land_GamingSet_01_powerSupply_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Gaming Set 01 power Supply F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Water Canister Empty",
@@ -2699,10 +2825,11 @@
   "name" : "Portable Heli Light Yellow",
   "pictureItem" : "PortableHelipadLight_01_yellow_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Portable Helipad Light 01 yellow F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Water Canister Empty",
@@ -2725,10 +2852,11 @@
   "name" : "Portable Heli Light white",
   "pictureItem" : "PortableHelipadLight_01_white_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Portable Helipad Light 01 white F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Water Canister Empty",
@@ -2751,10 +2879,11 @@
   "name" : "Portable Heli Light red",
   "pictureItem" : "PortableHelipadLight_01_red_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Portable Helipad Light 01 red F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Water Canister Empty",
@@ -2777,10 +2906,11 @@
   "name" : "Portable Heli Light green",
   "pictureItem" : "PortableHelipadLight_01_green_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Portable Helipad Light 01 green F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Water Canister Empty",
@@ -2803,10 +2933,11 @@
   "name" : "Portable Heli Light blue",
   "pictureItem" : "PortableHelipadLight_01_blue_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Portable Helipad Light 01 blue F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Water Canister Empty",
@@ -2829,10 +2960,11 @@
   "name" : "Portable Heli Light",
   "pictureItem" : "Land_PortableHelipadLight_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Portable Helipad Light 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Water Canister Empty",
@@ -2855,10 +2987,11 @@
   "name" : "Mine Sign",
   "pictureItem" : "Land_Sign_Mines_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sign Mines F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -2872,10 +3005,11 @@
   "name" : "Tool Trolley2",
   "pictureItem" : "Land_ToolTrolley_02_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Tool Trolley 02 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -2892,10 +3026,11 @@
   "name" : "Tool Trolley1",
   "pictureItem" : "Land_ToolTrolley_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Tool Trolley 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -2912,10 +3047,11 @@
   "name" : "Wooden Shelves Khaki",
   "pictureItem" : "Land_ShelvesWooden_khaki_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Shelves Wooden khaki F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Hammer", "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Log",
@@ -2935,10 +3071,11 @@
   "name" : "Wooden Shelves blue",
   "pictureItem" : "Land_ShelvesWooden_blue_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Shelves Wooden blue F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Hammer", "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Log",
@@ -2958,10 +3095,11 @@
   "name" : "Wooden Shelves",
   "pictureItem" : "Land_ShelvesWooden_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Shelves Wooden F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Hammer", "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Log",
@@ -2981,10 +3119,11 @@
   "name" : "Microwave",
   "pictureItem" : "Land_Microwave_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Microwave 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3004,10 +3143,11 @@
   "name" : "Metal Case",
   "pictureItem" : "Land_MetalCase_01_large_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Metal Case 01 large F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3024,10 +3164,11 @@
   "name" : "Fridge",
   "pictureItem" : "Fridge_01_closed_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Fridge 01 closed F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3047,10 +3188,11 @@
   "name" : "Inf Target",
   "pictureItem" : "TargetP_Inf_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Target P Inf F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3073,10 +3215,11 @@
   "name" : "Dueling Target",
   "pictureItem" : "Land_Target_Dueling_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Target Dueling 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3099,10 +3242,11 @@
   "name" : "Tape Sign",
   "pictureItem" : "TapeSign_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Tape Sign F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -3116,10 +3260,11 @@
   "name" : "Road Cone2",
   "pictureItem" : "RoadCone_L_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Road Cone L F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Hammer" ],
   "components" : [ {
     "name" : "Water Canister Empty",
@@ -3133,10 +3278,11 @@
   "name" : "Road Cone1",
   "pictureItem" : "RoadCone_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Road Cone F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Hammer" ],
   "components" : [ {
     "name" : "Water Canister Empty",
@@ -3150,10 +3296,11 @@
   "name" : "Road Barrier2",
   "pictureItem" : "RoadBarrier_small_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Road Barrier small F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Hammer" ],
   "components" : [ {
     "name" : "Wood Log",
@@ -3173,10 +3320,11 @@
   "name" : "Road Barrier1",
   "pictureItem" : "RoadBarrier_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Road Barrier F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Hammer" ],
   "components" : [ {
     "name" : "Wood Log",
@@ -3193,10 +3341,11 @@
   "name" : "Plastic Barrier Orange",
   "pictureItem" : "PlasticBarrier_03_orange_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Plastic Barrier 03 orange F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -3213,10 +3362,11 @@
   "name" : "Plastic Barrier Blue",
   "pictureItem" : "PlasticBarrier_03_blue_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Plastic Barrier 03 blue F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -3233,10 +3383,11 @@
   "name" : "Plastic Barrier Yellow",
   "pictureItem" : "PlasticBarrier_02_yellow_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Plastic Barrier 02 yellow F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -3253,10 +3404,11 @@
   "name" : "Plastic Barrier Grey",
   "pictureItem" : "PlasticBarrier_02_grey_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Plastic Barrier 02 grey F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -3273,10 +3425,11 @@
   "name" : "Arrow Desk L",
   "pictureItem" : "ArrowDesk_L_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Arrow Desk L F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3293,10 +3446,11 @@
   "name" : "Arrow Desk R",
   "pictureItem" : "ArrowDesk_R_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Arrow Desk R F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3313,10 +3467,11 @@
   "name" : "Workbench 2 0",
   "pictureItem" : "Land_Workbench_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Workbench 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -3336,10 +3491,11 @@
   "name" : "Welding Trolley",
   "pictureItem" : "Land_WeldingTrolley_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Welding Trolley 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -3359,10 +3515,11 @@
   "name" : "Pressurewasher",
   "pictureItem" : "Land_PressureWasher_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Pressure Washer 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -3382,10 +3539,11 @@
   "name" : "Pallettrolley",
   "pictureItem" : "Land_PalletTrolley_01_yellow_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Pallet Trolley 01 yellow F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -3402,10 +3560,11 @@
   "name" : "Engine Crane",
   "pictureItem" : "Land_EngineCrane_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Engine Crane 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -3422,10 +3581,11 @@
   "name" : "Diesel Groundpower Unit",
   "pictureItem" : "Land_DieselGroundPowerUnit_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Diesel Ground Power Unit 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3445,10 +3605,11 @@
   "name" : "Office Table",
   "pictureItem" : "OfficeTable_01_new_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Office Table 01 new F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Hammer", "Screwdriver" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -3468,10 +3629,11 @@
   "name" : "Wooden Table Large",
   "pictureItem" : "Land_WoodenTable_large_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Wooden Table large F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Hammer", "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Log",
@@ -3491,10 +3653,11 @@
   "name" : "Wooden Table Small",
   "pictureItem" : "Land_WoodenTable_small_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Wooden Table small F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Hammer", "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Log",
@@ -3514,10 +3677,11 @@
   "name" : "Table Plastic",
   "pictureItem" : "Land_TablePlastic_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Table Plastic 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -3534,10 +3698,11 @@
   "name" : "Sunshades",
   "pictureItem" : "Land_Sunshade_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sunshade F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Hammer", "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Log",
@@ -3554,10 +3719,11 @@
   "name" : "Sunshade 03",
   "pictureItem" : "Land_Sunshade_03_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sunshade 03 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Hammer", "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Log",
@@ -3574,10 +3740,11 @@
   "name" : "Sunshade 02",
   "pictureItem" : "Land_Sunshade_02_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sunshade 02 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Hammer", "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Log",
@@ -3594,10 +3761,11 @@
   "name" : "Sunshade 01",
   "pictureItem" : "Land_Sunshade_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sunshade 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Hammer", "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Log",
@@ -3614,10 +3782,11 @@
   "name" : "Sunchairgreen",
   "pictureItem" : "Land_Sun_chair_green_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sun chair green F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Hammer", "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -3634,10 +3803,11 @@
   "name" : "Sleeping Bag brown",
   "pictureItem" : "Land_Sleeping_bag_brown_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sleeping bag brown F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Rope",
@@ -3651,10 +3821,11 @@
   "name" : "Sleeping Bag blue",
   "pictureItem" : "Land_Sleeping_bag_blue_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sleeping bag blue F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Rope",
@@ -3668,10 +3839,11 @@
   "name" : "Rattan Table",
   "pictureItem" : "Land_RattanTable_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Rattan Table 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -3688,10 +3860,11 @@
   "name" : "Rattan Chair",
   "pictureItem" : "Land_RattanChair_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Rattan Chair 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -3708,10 +3881,11 @@
   "name" : "Printer",
   "pictureItem" : "Land_Printer_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Printer 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3731,10 +3905,11 @@
   "name" : "PCScreen",
   "pictureItem" : "Land_PCSet_01_screen_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land PCSet 01 screen F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3754,10 +3929,11 @@
   "name" : "PCMouse",
   "pictureItem" : "Land_PCSet_01_mouse_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land PCSet 01 mouse F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -3774,10 +3950,11 @@
   "name" : "PCKeyboard",
   "pictureItem" : "Land_PCSet_01_keyboard_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land PCSet 01 keyboard F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3794,10 +3971,11 @@
   "name" : "PCCase",
   "pictureItem" : "Land_PCSet_01_case_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land PCSet 01 case F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers", "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3820,10 +3998,11 @@
   "name" : "Office Chair",
   "pictureItem" : "Land_OfficeChair_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Office Chair 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -3843,10 +4022,11 @@
   "name" : "Office Cabinet",
   "pictureItem" : "Land_OfficeCabinet_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Office Cabinet 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -3866,10 +4046,11 @@
   "name" : "Gym Rack",
   "pictureItem" : "Land_GymRack_03_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Gym Rack 03 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3889,10 +4070,11 @@
   "name" : "Gym Bench",
   "pictureItem" : "Land_GymBench_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Gym Bench 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3912,10 +4094,11 @@
   "name" : "Zbox Controller",
   "pictureItem" : "Land_GamingSet_01_controller_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Gaming Set 01 controller F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers", "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3938,10 +4121,11 @@
   "name" : "Zbox Console",
   "pictureItem" : "Land_GamingSet_01_console_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Gaming Set 01 console F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers", "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3964,10 +4148,11 @@
   "name" : "Plastic Chair",
   "pictureItem" : "Land_ChairPlastic_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Chair Plastic F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -3984,10 +4169,11 @@
   "name" : "Flat TV",
   "pictureItem" : "Land_FlatTV_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Flat TV 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers", "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -4010,10 +4196,11 @@
   "name" : "Huron Ammo",
   "pictureItem" : "B_Slingload_01_Ammo_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "B Slingload 01 Ammo F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -4036,10 +4223,11 @@
   "name" : "Huron Fuel",
   "pictureItem" : "B_Slingload_01_fuel_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "B Slingload 01 fuel F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -4059,10 +4247,11 @@
   "name" : "Suitcase",
   "pictureItem" : "Land_Suitcase_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Suitcase F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -4079,10 +4268,11 @@
   "name" : "Ammo Boxsmall",
   "pictureItem" : "Land_Ammobox_rounds_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Ammobox rounds F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Metal Board",
@@ -4099,10 +4289,11 @@
   "name" : "Research Small",
   "pictureItem" : "Land_Research_house_V1_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Research house V1 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -4125,10 +4316,11 @@
   "name" : "Research Big",
   "pictureItem" : "Land_Research_HQ_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Research HQ F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -4151,10 +4343,11 @@
   "name" : "Plastic Case",
   "pictureItem" : "Land_PlasticCase_01_medium_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Plastic Case 01 medium F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -4177,10 +4370,11 @@
   "name" : "House Big",
   "pictureItem" : "Land_i_House_Big_01_V2_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land i House Big 01 V2 F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 2
   }, {
@@ -4209,10 +4403,11 @@
   "name" : "Bungalow",
   "pictureItem" : "Land_i_House_Small_03_V1_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land i House Small 03 V1 F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -4241,10 +4436,11 @@
   "name" : "Concrete Mixer",
   "pictureItem" : "Exile_ConcreteMixer_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Exile Concrete Mixer Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Pliers", "Screwdriver" ],
   "components" : [ {
     "name" : "Portable Generator Kit",
@@ -4270,10 +4466,11 @@
   "name" : "Flag CSAT",
   "pictureItem" : "Flag_CSAT_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Flag CSAT F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -4290,10 +4487,11 @@
   "name" : "Garbage Container",
   "pictureItem" : "Land_GarbageContainer_closed_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Garbage Container closed F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -4313,10 +4511,11 @@
   "name" : "Metal Rack4Layers",
   "pictureItem" : "Land_Metal_rack_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Metal rack F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -4336,10 +4535,11 @@
   "name" : "Water Sink",
   "pictureItem" : "Land_Sink_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sink F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Cement",
@@ -4359,10 +4559,11 @@
   "name" : "Pavement Wide Corner",
   "pictureItem" : "Land_Pavement_wide_corner_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Pavement wide corner F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -4388,10 +4589,11 @@
   "name" : "Pavement Wide",
   "pictureItem" : "Land_Pavement_wide_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Pavement wide F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -4417,10 +4619,11 @@
   "name" : "Pavement Narrow Corner",
   "pictureItem" : "Land_Pavement_narrow_corner_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Pavement narrow corner F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -4446,10 +4649,11 @@
   "name" : "Pavement Narrow",
   "pictureItem" : "Land_Pavement_narrow_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Pavement narrow F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -4475,10 +4679,11 @@
   "name" : "Altis Map",
   "pictureItem" : "MapBoard_altis_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Map Board altis F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Handsaw" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -4495,10 +4700,11 @@
   "name" : "Camping Table",
   "pictureItem" : "Land_CampingTable_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Camping Table F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -4518,10 +4724,11 @@
   "name" : "Camping Light",
   "pictureItem" : "Land_Camping_Light_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Camping Light F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Light Bulb",
@@ -4541,10 +4748,11 @@
   "name" : "Camping Chair V2",
   "pictureItem" : "Land_CampingChair_V2_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Camping Chair V2 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -4561,10 +4769,11 @@
   "name" : "Camping Chair V1",
   "pictureItem" : "Land_CampingChair_V1_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Camping Chair V1 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -4581,10 +4790,11 @@
   "name" : "Small Stone2",
   "pictureItem" : "Land_Small_Stone_02_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Small Stone 02 F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -4610,10 +4820,11 @@
   "name" : "Solar Panel2",
   "pictureItem" : "Land_spp_Panel_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land spp Panel F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -4633,10 +4844,11 @@
   "name" : "Solar Panel",
   "pictureItem" : "Land_SolarPanel_2_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Solar Panel 2 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -4656,10 +4868,11 @@
   "name" : "Sleeping Bag",
   "pictureItem" : "Land_Sleeping_bag_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sleeping bag F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Rope",
@@ -4673,10 +4886,11 @@
   "name" : "Sharp Stone2",
   "pictureItem" : "Land_SharpStone_02_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sharp Stone 02 F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -4702,10 +4916,11 @@
   "name" : "Sharp Stone1",
   "pictureItem" : "Land_SharpStone_01_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sharp Stone 01 F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -4731,10 +4946,11 @@
   "name" : "Bush",
   "pictureItem" : "Exile_Plant_GreenBush_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Exile Plant Green Bush Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Woodlog",
@@ -4748,10 +4964,11 @@
   "name" : "Transmission Tower",
   "pictureItem" : "Land_TTowerSmall_1_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land TTower Small 1 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Foolbox" ],
   "components" : [ {
     "name" : "Extension Cord",
@@ -4771,10 +4988,11 @@
   "name" : "Sign Unexploded Ammo",
   "pictureItem" : "Land_Sign_WarningUnexplodedAmmo_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sign Warning Unexploded Ammo F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Foolbox", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -4791,10 +5009,11 @@
   "name" : "Castle Tower",
   "pictureItem" : "Land_Castle_01_tower_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Castle 01 tower F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -4823,10 +5042,11 @@
   "name" : "Beach Booth",
   "pictureItem" : "Land_BeachBooth_01_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Beach Booth 01 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Woodlog",
@@ -4846,10 +5066,11 @@
   "name" : "Barracks",
   "pictureItem" : "Land_i_Barracks_V1_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land i Barracks V1 F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -4881,10 +5102,11 @@
   "name" : "Airport Tower",
   "pictureItem" : "Land_Airport_Tower_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Airport Tower F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -4916,10 +5138,11 @@
   "name" : "Shabbylamp",
   "pictureItem" : "Land_LampShabby_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Lamp Shabby F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Handsaw" ],
   "components" : [ {
     "name" : "Woodlog",
@@ -4945,10 +5168,11 @@
   "name" : "Sunshade",
   "pictureItem" : "Land_Sunshade_04_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sunshade 04 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Woodlog",
@@ -4968,10 +5192,11 @@
   "name" : "Sunchair",
   "pictureItem" : "Land_Sun_chair_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sun chair F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Woodlog",
@@ -4991,10 +5216,11 @@
   "name" : "Solar Tower",
   "pictureItem" : "Land_spp_Tower_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land spp Tower F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -5032,10 +5258,11 @@
   "name" : "Metal Shed",
   "pictureItem" : "Land_Metal_Shed_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Metal Shed F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers", "Screwdriver" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -5058,10 +5285,11 @@
   "name" : "Airplane Hangar",
   "pictureItem" : "Land_Hangar_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Hangar F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers", "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -5087,10 +5315,11 @@
   "name" : "Big Dome",
   "pictureItem" : "Land_Dome_Big_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Dome Big F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers", "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -5116,10 +5345,11 @@
   "name" : "Street Lamp",
   "pictureItem" : "Land_LampStreet_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Lamp Street F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -5145,10 +5375,11 @@
   "name" : "Tavern Middle",
   "pictureItem" : "Land_i_Addon_03mid_V1_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land i Addon 03mid V1 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -5168,10 +5399,11 @@
   "name" : "Tavern",
   "pictureItem" : "Land_i_Addon_03_V1_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land i Addon 03 V1 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -5191,10 +5423,11 @@
   "name" : "Sea Wall",
   "pictureItem" : "Land_Sea_Wall_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sea Wall F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -5223,10 +5456,11 @@
   "name" : "Industryfence3pts",
   "pictureItem" : "Land_IndFnc_9_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Ind Fnc 9 F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -5252,10 +5486,11 @@
   "name" : "Industryfence",
   "pictureItem" : "Land_IndFnc_3_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Ind Fnc 3 F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -5281,10 +5516,11 @@
   "name" : "Cargo Container Small",
   "pictureItem" : "Land_CargoBox_V1_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Cargo Box V1 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -5304,10 +5540,11 @@
   "name" : "Block Concrete",
   "pictureItem" : "BlockConcrete_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Block Concrete F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -5333,10 +5570,11 @@
   "name" : "Chair",
   "pictureItem" : "Land_ChairWood_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Chair Wood F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -5353,10 +5591,11 @@
   "name" : "Toiletbox",
   "pictureItem" : "Land_ToiletBox_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Toilet Box F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -5376,10 +5615,11 @@
   "name" : "Table",
   "pictureItem" : "Land_TableDesk_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Table Desk F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -5399,10 +5639,11 @@
   "name" : "Slumplane",
   "pictureItem" : "Land_Cargo_addon02_V2_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Cargo addon02 V2 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Woodlog",
@@ -5422,10 +5663,11 @@
   "name" : "Radarsmall",
   "pictureItem" : "Land_Radar_Small_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Radar Small F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -5448,10 +5690,11 @@
   "name" : "Floodlightdouble",
   "pictureItem" : "Land_PortableLight_double_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Portable Light double F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Light Bulb",
@@ -5477,10 +5720,11 @@
   "name" : "Cnc Wall Small8m",
   "pictureItem" : "Land_Concrete_SmallWall_8m_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Concrete Small Wall 8m F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -5509,10 +5753,11 @@
   "name" : "Cnc Wall Small4m",
   "pictureItem" : "Land_Concrete_SmallWall_4m_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Concrete Small Wall 4m F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -5541,10 +5786,11 @@
   "name" : "Military Vehicle",
   "pictureItem" : "Land_Sign_WarningMilitaryVehicles_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sign Warning Military Vehicles F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -5564,10 +5810,11 @@
   "name" : "Mil Sign Small",
   "pictureItem" : "Land_Sign_WarningMilAreaSmall_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sign Warning Mil Area Small F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -5587,10 +5834,11 @@
   "name" : "Watersource",
   "pictureItem" : "Land_Water_source_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Water source F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -5622,10 +5870,11 @@
   "name" : "Tourist Shelter",
   "pictureItem" : "Land_TouristShelter_01_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Tourist Shelter 01 F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -5660,10 +5909,11 @@
   "name" : "Big Shed",
   "pictureItem" : "Land_Shed_Big_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Shed Big F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Foolbox" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -5680,10 +5930,11 @@
   "name" : "Crashbarrier",
   "pictureItem" : "Land_Crash_barrier_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Crash barrier F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -5697,10 +5948,11 @@
   "name" : "cncbarriermedium",
   "pictureItem" : "Land_CncBarrierMedium_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Cnc Barrier Medium F Kit",
     "quantity" : 2
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -5729,10 +5981,11 @@
   "name" : "cncbarrier1",
   "pictureItem" : "Land_CncWall1_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Cnc Wall1 F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -5761,10 +6014,11 @@
   "name" : "Airportlamp",
   "pictureItem" : "Land_LampAirport_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Lamp Airport F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
   "components" : [ {
     "name" : "Extension Cord",
@@ -5790,10 +6044,11 @@
   "name" : "Lamp Halogen",
   "pictureItem" : "Land_LampHalogen_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Lamp Halogen F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder", "Pliers" ],
   "components" : [ {
     "name" : "Light Bulb",
@@ -5819,10 +6074,11 @@
   "name" : "Tent Hangar",
   "pictureItem" : "Land_TentHangar_V1_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Tent Hangar V1 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers", "Handsaw", "Screwdriver" ],
   "components" : [ {
     "name" : "Woodlog",
@@ -5848,10 +6104,11 @@
   "name" : "Tent Dome",
   "pictureItem" : "Land_TentDome_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Tent Dome F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Woodlog",
@@ -5871,10 +6128,11 @@
   "name" : "Platform",
   "pictureItem" : "Land_GH_Platform_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land GH Platform F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -5903,10 +6161,11 @@
   "name" : "Garage",
   "pictureItem" : "Land_i_Garage_V2_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land i Garage V2 F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -5941,10 +6200,11 @@
   "name" : "CNCStairs",
   "pictureItem" : "Land_GH_Stairs_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land GH Stairs F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -5973,10 +6233,11 @@
   "name" : "Cargo Container Sand Small",
   "pictureItem" : "Land_Cargo20_sand_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Cargo20 sand F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -5996,10 +6257,11 @@
   "name" : "Brokenshed",
   "pictureItem" : "Land_u_Addon_01_V1_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land u Addon 01 V1 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -6019,10 +6281,11 @@
   "name" : "Razorwire",
   "pictureItem" : "Land_Razorwire_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Razorwire F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers", "Grinder" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -6039,10 +6302,11 @@
   "name" : "Small Shed",
   "pictureItem" : "Land_Shed_Small_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Shed Small F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -6062,10 +6326,11 @@
   "name" : "Fuelstation Shed",
   "pictureItem" : "Land_FuelStation_Shed_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Fuel Station Shed F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -6088,10 +6353,11 @@
   "name" : "CNCWall Type2",
   "pictureItem" : "Land_CncWall4_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Cnc Wall4 F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -6120,10 +6386,11 @@
   "name" : "CNCWall",
   "pictureItem" : "Land_Wall_IndCnc_2deco_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Wall Ind Cnc 2deco F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -6152,10 +6419,11 @@
   "name" : "CNCShelter",
   "pictureItem" : "Land_CncShelter_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Cnc Shelter F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -6184,10 +6452,11 @@
   "name" : "Slum Container",
   "pictureItem" : "Land_cargo_house_slum_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land cargo house slum F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -6207,10 +6476,11 @@
   "name" : "Huge Container",
   "pictureItem" : "Land_Cargo40_light_green_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Cargo40 light green F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -6230,10 +6500,11 @@
   "name" : "Cargo House",
   "pictureItem" : "Land_Cargo_House_V2_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Cargo House V2 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -6253,10 +6524,11 @@
   "name" : "Shooting Pos",
   "pictureItem" : "ShootingPos_F_Kit",
   "interactionGrp" : null,
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Shooting Pos F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ ],
   "components" : [ {
     "name" : "Woodlog",
@@ -6270,10 +6542,11 @@
   "name" : "Bag Bunker Big",
   "pictureItem" : "Land_BagBunker_Large_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Bag Bunker Large F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Sand",
@@ -6293,10 +6566,11 @@
   "name" : "Pumpstation",
   "pictureItem" : "Land_FuelStation_Feed_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Fuel Station Feed F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -6319,10 +6593,11 @@
   "name" : "Cargo Tower Big",
   "pictureItem" : "Land_Cargo_Tower_V2_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Cargo Tower V2 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -6342,10 +6617,11 @@
   "name" : "Metal Shelf",
   "pictureItem" : "Land_ShelvesMetal_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Shelves Metal F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -6365,10 +6641,11 @@
   "name" : "Rusty Tank",
   "pictureItem" : "Land_Tank_rust_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Tank rust F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -6385,10 +6662,11 @@
   "name" : "Steelfence",
   "pictureItem" : "Land_Wall_Tin_4_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Wall Tin 4 Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -6402,10 +6680,11 @@
   "name" : "Pier",
   "pictureItem" : "Land_Pier_small_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Pier small F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Woodlog",
@@ -6422,10 +6701,11 @@
   "name" : "Land Cargo Patrol",
   "pictureItem" : "Land_Cargo_Patrol_V2_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Cargo Patrol V2 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -6448,10 +6728,11 @@
   "name" : "Cnc Wall Mil4M",
   "pictureItem" : "Land_Mil_WallBig_4m_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Mil Wall Big 4m F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -6480,10 +6761,11 @@
   "name" : "Military Area",
   "pictureItem" : "Land_Sign_WarningMilitaryArea_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Sign Warning Military Area F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Junk Metal",
@@ -6503,10 +6785,11 @@
   "name" : "Icebox",
   "pictureItem" : "Land_Icebox_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Icebox F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Pliers" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -6529,10 +6812,11 @@
   "name" : "Bargate",
   "pictureItem" : "Land_BarGate_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Bar Gate F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver", "Grinder" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -6552,10 +6836,11 @@
   "name" : "Citygate",
   "pictureItem" : "Land_City_Gate_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land City Gate F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -6587,10 +6872,11 @@
   "name" : "Rack",
   "pictureItem" : "Land_Rack_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Rack F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Wood Plank",
@@ -6610,10 +6896,11 @@
   "name" : "Heli Pad",
   "pictureItem" : "Land_HelipadCivil_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Helipad Civil F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   } ],
@@ -6636,10 +6923,11 @@
   "name" : "Concrete Wall8m",
   "pictureItem" : "Land_City2_8m_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land City2 8m F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -6668,10 +6956,11 @@
   "name" : "Concrete Wall4m",
   "pictureItem" : "Land_City2_4m_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land City2 4m F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -6700,10 +6989,11 @@
   "name" : "Concrete Wall1",
   "pictureItem" : "Land_Wall_IndCnc_4_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Wall Ind Cnc 4 F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -6732,10 +7022,11 @@
   "name" : "Concrete Ramp",
   "pictureItem" : "Land_RampConcrete_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Ramp Concrete F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -6764,10 +7055,11 @@
   "name" : "Sandbag Barrier Big Corner",
   "pictureItem" : "Land_HBarrierWall_corner_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land HBarrier Wall corner F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Sand",
@@ -6784,10 +7076,11 @@
   "name" : "Bunker Huge",
   "pictureItem" : "Land_Bunker_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Bunker F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -6819,10 +7112,11 @@
   "name" : "Bag Bunker Small",
   "pictureItem" : "Land_BagBunker_Small_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Bag Bunker Small F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -6854,10 +7148,11 @@
   "name" : "Metal Wooden Rack",
   "pictureItem" : "Land_Metal_wooden_rack_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Metal wooden rack F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -6880,10 +7175,11 @@
   "name" : "Sandbag Tower",
   "pictureItem" : "Land_HBarrierTower_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land HBarrier Tower F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Sand",
@@ -6906,10 +7202,11 @@
   "name" : "Sandbags Long",
   "pictureItem" : "Land_BagFence_Long_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Bag Fence Long F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Shovel" ],
   "components" : [ {
     "name" : "Sand",
@@ -6923,10 +7220,11 @@
   "name" : "Sandbag Corner",
   "pictureItem" : "Land_BagFence_Corner_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Bag Fence Corner F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Shovel" ],
   "components" : [ {
     "name" : "Sand",
@@ -6940,10 +7238,11 @@
   "name" : "Land Container",
   "pictureItem" : "Land_Cargo20_military_green_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Cargo20 military green F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -6960,10 +7259,11 @@
   "name" : "Ammobox",
   "pictureItem" : "Land_Pallet_MilBoxes_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Pallet Mil Boxes F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Foolbox" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -6983,10 +7283,11 @@
   "name" : "Watercooler",
   "pictureItem" : "Land_WaterCooler_01_new_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Water Cooler 01 new F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder", "Screwdriver" ],
   "components" : [ {
     "name" : "Metal Board",
@@ -7006,10 +7307,11 @@
   "name" : "Cnc Barrier",
   "pictureItem" : "Land_CncBarrier_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Cnc Barrier F Kit",
     "quantity" : 1
-  }, {
+  },
+  "returnedItems" : [ {
     "name" : "Water Canister Empty",
     "quantity" : 1
   }, {
@@ -7038,10 +7340,11 @@
   "name" : "Stonewall",
   "pictureItem" : "Land_Stone_4m_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Stone 4m F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Shovel" ],
   "components" : [ {
     "name" : "Cement",
@@ -7058,10 +7361,11 @@
   "name" : "Stonegate",
   "pictureItem" : "Land_Stone_Gate_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Stone Gate F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Shovel", "Grinder" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -7084,10 +7388,11 @@
   "name" : "Pier Ladder",
   "pictureItem" : "PierLadder_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Pier Ladder F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Grinder" ],
   "components" : [ {
     "name" : "Metal Pole",
@@ -7104,10 +7409,11 @@
   "name" : "Barrier1",
   "pictureItem" : "Land_HBarrier_1_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land HBarrier 1 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Sand",
@@ -7124,10 +7430,11 @@
   "name" : "Barrier3",
   "pictureItem" : "Land_HBarrier_3_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land HBarrier 3 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Sand",
@@ -7144,10 +7451,11 @@
   "name" : "Barrier5",
   "pictureItem" : "Land_HBarrier_5_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land HBarrier 5 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Sand",
@@ -7164,10 +7472,11 @@
   "name" : "Sandbag Barrier Big4m",
   "pictureItem" : "Land_HBarrierWall4_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land HBarrier Wall4 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Land HBarrier 3 F Kit",
@@ -7187,10 +7496,11 @@
   "name" : "Sandbag Barrier Big6m",
   "pictureItem" : "Land_HBarrierWall6_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land HBarrier Wall6 F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Land HBarrier Wall4 F Kit",
@@ -7210,10 +7520,11 @@
   "name" : "Bag Bunker",
   "pictureItem" : "Land_BagBunker_Tower_F_Kit",
   "interactionGrp" : "Work Bench",
-  "returnedItems" : [ {
+  "primaryItem" : {
     "name" : "Land Bag Bunker Tower F Kit",
     "quantity" : 1
-  } ],
+  },
+  "returnedItems" : [ ],
   "tools" : [ "Pliers" ],
   "components" : [ {
     "name" : "Sand",

@@ -34,6 +34,7 @@ public class ClassProcessor {
             .map((c) -> classToRecipe(c))
             .collect(Collectors.toList());
 
+        determinePrimary(r);
 
         writeJson(files[files.length-1], r);
     }
@@ -155,6 +156,23 @@ public class ClassProcessor {
                 r.setComponents(parseItemList(p.getValue()));
         }
         return r;
+    }
+
+    private void determinePrimary(List<Recipe> recipes) {
+        for (Recipe r: recipes) {
+            List<Item> ret = new ArrayList<>();
+            ret.addAll(r.getReturnedItems());
+            for (Item i: ret) {
+                if (!"Water Canister Empty".equals(i.getName())
+                    && !"Fuel Canister Empty".equals(i.getName())) {
+                    r.setPrimaryItem(i);
+                    r.getReturnedItems().remove(i);
+                }
+            }
+
+            if (r.getPrimaryItem() == null)
+                System.err.println("No primary: " + r.getName());
+        }
     }
 
     private List<Item> parseItemList(String itemText) {

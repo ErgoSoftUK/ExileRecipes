@@ -43,9 +43,7 @@ export class AppComponent implements AfterViewInit {
       if (term.startsWith('returns:')) {
         const t = term.substr(8);
         this.results = recipes.filter(r =>
-          r.returnedItems.filter(
-            ri => ri.name.toLowerCase() === t.toLowerCase()
-          ).length > 0
+          r.primaryItem != null && r.primaryItem.name.toLowerCase() === t.toLowerCase()
         );
         if (this.results.length === 1) {
           this.selectedRecipe = this.results[0];

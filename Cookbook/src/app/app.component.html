@@ -48,10 +48,10 @@
             <div class="form-group col-md-12" *ngIf="needsNearby()">
               <label class="form-control-label">Nearby</label>
               <div>
-                <button class="btn btn-danger mb-2" *ngIf="selectedRecipe.interactionGrp" (click)="view(selectedRecipe.interactionGrp)">{{selectedRecipe.interactionGrp}}</button>
-                <button class="btn btn-danger mb-2" *ngIf="selectedRecipe.requiresConcreteMixer" (click)="view('Concrete Mixer')">Concrete mixer</button>
-                <button class="btn btn-danger mb-2" *ngIf="selectedRecipe.requiresFire">Fire</button>
-                <button class="btn btn-danger mb-2" *ngIf="selectedRecipe.requiresOcean">Ocean</button>
+                <button class="btn btn-info mb-2" *ngIf="selectedRecipe.interactionGrp" (click)="view(selectedRecipe.interactionGrp)">{{selectedRecipe.interactionGrp}}</button>
+                <button class="btn btn-info mb-2" *ngIf="selectedRecipe.requiresConcreteMixer" (click)="view('Concrete Mixer')">Concrete mixer</button>
+                <button class="btn btn-info mb-2" *ngIf="selectedRecipe.requiresFire">Fire</button>
+                <button class="btn btn-info mb-2" *ngIf="selectedRecipe.requiresOcean">Ocean</button>
               </div>
             </div>
 
@@ -68,8 +68,15 @@
               <label class="form-control-label">Components</label>
               <div>
                 <ng-container *ngFor="let item of selectedRecipe.components">
-                  <button class="btn btn-success mb-2" (click)="view('returns:'+item.name)">{{item.name}} <span class="badge badge-light">{{item.quantity}}</span></button>
+                  <button class="btn btn-danger mb-2" (click)="view('returns:'+item.name)">{{item.name}} <span class="badge badge-light">{{item.quantity}}</span></button>
                 </ng-container>
+              </div>
+            </div>
+
+            <div class="form-group col-md-12">
+              <label class="form-control-label">Primary item</label>
+              <div>
+                <button class="btn btn-success mb-2">{{selectedRecipe.primaryItem.name}} <span class="badge badge-light">{{selectedRecipe.primaryItem.quantity}}</span></button>
               </div>
             </div>
 

@@ -7,6 +7,7 @@ public class Recipe {
     private String name;
     private String pictureItem;
     private String interactionGrp;
+    private Item primaryItem;
     private List<Item> returnedItems = new ArrayList<>();
     private List<String> tools = new ArrayList<>();
     private List<Item> components = new ArrayList<>();
@@ -21,6 +22,15 @@ public class Recipe {
 
     public Recipe setName(String name) {
         this.name = name;
+        return this;
+    }
+
+    public Item getPrimaryItem() {
+        return primaryItem;
+    }
+
+    public Recipe setPrimaryItem(Item primaryItem) {
+        this.primaryItem = primaryItem;
         return this;
     }
 

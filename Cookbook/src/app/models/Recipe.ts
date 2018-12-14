@@ -4,6 +4,7 @@ export class Recipe {
   name: string;
   pictureItem: string;
   interactionGrp: string;
+  primaryItem: Item;
   returnedItems: Item[];
   tools: string[];
   components: Item[];
